@@ -1,0 +1,1762 @@
+﻿Log file open, 02/22/19 10:41:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GroupProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.950434
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.175s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU: AMD FX(tm)-9370 Eight-Core Processor           , GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: G:/Unreal Engine Install Directory/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.22-10.41.23:347][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.22-10.41.23:347][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.22-10.41.23:375][  0]LogHAL: Display: Platform has ~ 16 GB [17072640000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.22-10.41.23:376][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.02.22-10.41.23:390][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.22-10.41.23:391][  0]LogInit: Computer: DAN-PC
+[2019.02.22-10.41.23:391][  0]LogInit: User: Dan
+[2019.02.22-10.41.23:391][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.22-10.41.23:392][  0]LogInit: High frequency timer resolution =4.311406 MHz
+[2019.02.22-10.41.23:392][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.22-10.41.23:392][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.22-10.41.23:392][  0]LogMemory: Process Physical Memory: 103.64 MB used, 103.64 MB peak
+[2019.02.22-10.41.23:392][  0]LogMemory: Process Virtual Memory: 95.81 MB used, 95.81 MB peak
+[2019.02.22-10.41.23:392][  0]LogMemory: Physical Memory: 6876.07 MB used,  9405.66 MB free, 16281.74 MB total
+[2019.02.22-10.41.23:392][  0]LogMemory: Virtual Memory: 496.27 MB used,  9405.66 MB free, 8388608.00 MB total
+[2019.02.22-10.41.25:123][  0]LogInit: Using OS detected language (en-GB).
+[2019.02.22-10.41.25:123][  0]LogInit: Using OS detected locale (en-GB).
+[2019.02.22-10.41.25:129][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.02.22-10.41.25:709][  0]LogStreaming: Display: Took  0.587s to InitEngineTextLocalization.
+[2019.02.22-10.41.25:710][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.02.22-10.41.25:710][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.02.22-10.41.25:710][  0]LogInit: Setting process to DPI aware
+[2019.02.22-10.41.25:870][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.22-10.41.25:870][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.22-10.41.26:515][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.22-10.41.26:515][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.22-10.41.26:689][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.02.22-10.41.26:689][  0]LogD3D11RHI:       4007/0/7884 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.02.22-10.41.26:689][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.22-10.41.26:741][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.22-10.41.26:745][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.22-10.41.26:745][  0]LogWindows: EnumDisplayDevices:
+[2019.02.22-10.41.26:751][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.02.22-10.41.26:756][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.02.22-10.41.26:762][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.02.22-10.41.26:770][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.02.22-10.41.26:770][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2019.02.22-10.41.26:771][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.02.22-10.41.26:771][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.02.22-10.41.26:771][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.02.22-10.41.26:771][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.02.22-10.41.26:771][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.02.22-10.41.26:771][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.02.22-10.41.26:771][  0]LogRHI: Texture pool is 2805 MB (70% of 4007 MB)
+[2019.02.22-10.41.26:787][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.22-10.41.26:930][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.22-10.41.27:029][  0]LogShaderCompilers: Guid format shader working directory is -74 characters bigger than the processId version (../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Intermediate/Shaders/WorkingDirectory/9092/).
+[2019.02.22-10.41.27:029][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dan/AppData/Local/Temp/UnrealShaderWorkingDir/88C37CB248A54D88D0057084AE5A5151/'.
+[2019.02.22-10.41.29:759][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.22-10.41.29:803][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.22-10.41.29:844][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.22-10.41.29:883][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.22-10.41.29:927][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.22-10.41.29:977][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.22-10.41.30:017][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.22-10.41.30:067][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.22-10.41.30:099][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-10.41.30:254][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.22-10.41.30:403][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.22-10.41.30:403][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.22-10.41.30:456][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.22-10.41.30:456][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.22-10.41.30:494][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.22-10.41.30:533][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.22-10.41.30:571][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.22-10.41.30:621][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.22-10.41.30:654][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.22-10.41.30:654][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.22-10.41.32:277][  0]LogXGEController: Cleaning working directory: C:/Users/Dan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.22-10.41.32:278][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.22-10.41.32:278][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.22-10.41.32:278][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.22-10.41.33:691][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.22-10.41.35:044][  0]LogDerivedDataCache: Loaded boot cache 1.18s 71MB C:/Users/Dan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.22-10.41.35:044][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.02.22-10.41.35:044][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.22-10.41.35:044][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.22-10.41.35:044][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.22-10.41.35:044][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.22-10.41.35:071][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.22-10.41.35:085][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.22-10.41.35:085][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.22-10.41.35:085][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.22-10.41.35:115][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.22-10.41.35:117][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.22-10.41.35:121][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.22-10.41.35:393][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2019.02.22-10.41.35:972][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.22-10.41.37:821][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.22-10.41.37:933][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.22-10.41.37:933][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.22-10.41.37:933][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.22-10.41.37:933][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.22-10.41.38:817][  0]LogNetVersion: GroupProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 857663312)
+[2019.02.22-10.41.42:915][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.129325 seconds
+[2019.02.22-10.41.42:929][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.02.22-10.41.42:929][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.02.22-10.41.42:929][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.22-10.41.48:906][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.22-10.41.48:943][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.22-10.41.51:233][  0]SourceControl: Source control is disabled
+[2019.02.22-10.41.51:233][  0]SourceControl: Source control is disabled
+[2019.02.22-10.41.51:304][  0]SourceControl: Source control is disabled
+[2019.02.22-10.41.51:338][  0]SourceControl: Source control is disabled
+[2019.02.22-10.41.52:566][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.22-10.41.54:341][  0]LogOcInput: OculusInput pre-init called
+[2019.02.22-10.41.54:587][  0]LogEngine: Initializing Engine...
+[2019.02.22-10.41.54:590][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.22-10.41.54:591][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.22-10.41.54:591][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.22-10.41.54:592][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.22-10.41.54:592][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.22-10.41.54:977][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.22-10.41.55:044][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.22-10.41.55:138][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.22-10.41.55:208][  0]LogInit: FAudioDevice initialized.
+[2019.02.22-10.41.55:208][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.22-10.42.02:997][  0]LogDerivedDataCache: Saved boot cache 7.79s 71MB C:/Users/Dan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.22-10.42.03:009][  0]LogInit: Texture streaming: Enabled
+[2019.02.22-10.42.03:137][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.22-10.42.03:178][  0]LogInit: Transaction tracking system initialized
+[2019.02.22-10.42.03:342][  0]BlueprintLog: New page: Editor Load
+[2019.02.22-10.42.04:183][  0]LocalizationService: Localization service is disabled
+[2019.02.22-10.42.05:056][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.22-10.42.05:056][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.22-10.42.05:056][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.22-10.42.05:056][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.22-10.42.05:056][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.22-10.42.05:056][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.22-10.42.05:056][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.22-10.42.05:399][  0]LogFileCache: Scanning file cache for directory 'G:/Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/' took 0.02s
+[2019.02.22-10.42.07:630][  0]SourceControl: Source control is disabled
+[2019.02.22-10.42.07:631][  0]LightingResults: New page: Lighting Build
+[2019.02.22-10.42.07:638][  0]MapCheck: New page: Map Check
+[2019.02.22-10.42.07:638][  0]LightingResults: New page: Lighting Build
+[2019.02.22-10.42.09:863][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.22-10.42.09:933][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.22-10.42.10:019][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.22-10.42.10:091][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.029ms to complete.
+[2019.02.22-10.42.10:091][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.462
+[2019.02.22-10.42.10:380][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-10.42.10:389][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-10.42.10:398][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-10.42.10:411][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-10.42.10:447][  0]LogCollectionManager: Loaded 0 collections in 0.004257 seconds
+[2019.02.22-10.42.10:499][  0]LogFileCache: Scanning file cache for directory 'G:/Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/Collections/' took 0.01s
+[2019.02.22-10.42.10:499][  0]LogFileCache: Scanning file cache for directory 'G:/Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Developers/Dan/Collections/' took 0.01s
+[2019.02.22-10.42.10:500][  0]LogFileCache: Scanning file cache for directory 'G:/Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Collections/' took 0.01s
+[2019.02.22-10.42.10:500][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.22-10.42.10:515][  0]LogContentBrowser: Native class hierarchy populated in 0.0150 seconds. Added 2572 classes and 603 folders.
+[2019.02.22-10.42.10:527][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.22-10.42.10:870][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.22-10.42.10:915][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.02.22-10.42.11:013][  0]LogSlate: Took 0.001985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.22-10.42.11:017][  0]LogSlate: Took 0.002331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.22-10.42.11:026][  0]LogSlate: Took 0.001936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.22-10.42.11:179][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.02.22-10.42.11:476][  0]LogSlate: Took 0.002007 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.22-10.42.11:950][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.22-10.42.11:950][  0]LogLoad: (Engine Initialization) Total time: 60.28 seconds
+[2019.02.22-10.42.11:950][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.22-10.42.12:455][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.22-10.42.13:114][  2]LogAssetRegistry: Asset discovery search completed in 37.7447 seconds
+[2019.02.22-10.42.13:116][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.22-10.42.13:116][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2019.02.22-10.45.14:929][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-10.45.14:929][601]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.22-10.45.14:945][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.22-10.45.14:945][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.22-10.45.14:957][601]PIE: New page: PIE session: ThirdPersonExampleMap (22 Feb 2019 10:45:14)
+[2019.02.22-10.45.14:958][601]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.22-10.45.14:993][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035452s)
+[2019.02.22-10.45.14:994][601]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.22-10.45.14:994][601]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2019.02.22-10.45.14:994][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.036500s)
+[2019.02.22-10.45.15:070][601]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.22-10.45.15:085][601]LogInit: FAudioDevice initialized.
+[2019.02.22-10.45.15:128][601]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.22-10.45.15:132][601]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.22-10.45.15
+[2019.02.22-10.45.15:133][601]LogWorld: Bringing up level for play took: 0.002757
+[2019.02.22-10.45.15:171][601]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.02.22-10.45.15:171][601]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.185
+[2019.02.22-10.45.15:172][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.22-10.45.22:681][294]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.22-10.45.22:682][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-10.45.22:714][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.22-10.45.22:715][294]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.22-10.45.22:796][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-10.45.22:824][295]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.02.22-11.00.02:330][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-11.00.02:502][350]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.22-11.00.02:509][350]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/M_Landscape_Layer.M_Landscape_Layer
+[2019.02.22-11.00.02:518][350]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.00.03:192][350]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.00.03:218][350]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.00.03:246][350]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.00.03:246][350]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.00.03:246][350]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.00.03:246][350]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.00.03:270][350]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.02.22-11.00.03:275][350]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.02.22-11.00.03:281][350]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.02.22-11.00.03:286][350]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2019.02.22-11.00.03:521][350]LogSlate: Took 0.002607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.22-11.00.04:661][408]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.22-11.00.04:712][411]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.22-11.00.04:726][412]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.22-11.00.04:726][412]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.00.04:890][422]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.00.04:921][424]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.00.04:940][425]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.00.04:956][426]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.00.05:109][436]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.00.05:255][444]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.00.05:395][452]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.00.05:432][454]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.00.05:567][462]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.00.05:697][470]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.00.05:747][473]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.00.05:877][481]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.00.05:989][488]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.00.06:025][490]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.00.06:222][502]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.00.06:293][506]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.00.06:369][511]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.00.06:475][518]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.00.06:562][523]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.00.06:708][532]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.00.06:849][540]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.00.06:863][541]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.00.06:996][549]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.00.07:132][557]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.00.07:167][559]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.00.07:331][569]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.00.07:356][570]MaterialEditorStats: Base pass shader: 121 instructions
+[2019.02.22-11.00.07:356][570]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.02.22-11.00.07:357][570]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.02.22-11.00.07:357][570]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.00.07:357][570]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.00.07:357][570]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.00.07:357][570]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.00.07:375][571]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.00.07:410][573]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.00.07:545][581]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.00.07:633][586]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.15.25:168][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-11.15.32:717][345]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.15.32:787][346]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.15.32:787][346]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.15.32:787][346]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.15.32:787][346]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.15.33:650][406]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.15.33:672][407]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.15.33:686][408]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.15.33:686][408]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.15.33:867][419]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.15.33:883][420]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.15.33:916][422]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.15.33:916][422]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.15.34:085][433]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.15.34:250][442]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.15.34:379][450]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.15.34:448][454]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.15.34:549][460]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.15.34:692][469]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.15.34:727][471]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.15.34:894][481]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.15.35:046][488]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.15.35:080][490]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.15.35:210][498]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.15.35:349][506]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.15.35:400][509]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.15.35:555][518]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.15.35:721][527]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.15.35:773][530]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.15.35:953][540]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.15.36:035][545]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.15.36:422][570]MaterialEditorStats: Base pass shader: 121 instructions
+[2019.02.22-11.15.36:422][570]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.02.22-11.15.36:422][570]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.02.22-11.15.36:422][570]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.15.36:422][570]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.15.36:422][570]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.15.36:422][570]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.15.42:601][ 46]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.15.42:625][ 46]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.15.42:625][ 46]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.15.42:625][ 46]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.15.42:625][ 46]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.15.42:645][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.02.22-11.15.42:674][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.02.22-11.15.42:791][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.02.22-11.15.42:887][ 51]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.22-11.15.42:907][ 52]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.15.42:972][ 56]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.15.42:985][ 57]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.15.43:117][ 65]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.15.43:137][ 66]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.15.43:185][ 69]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.15.43:201][ 70]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.15.43:312][ 77]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.15.43:503][ 88]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.15.43:603][ 94]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.15.43:668][ 98]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.15.43:764][103]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.15.43:895][110]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.15.44:004][116]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.15.44:134][123]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.15.44:198][127]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.15.44:249][130]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.15.44:487][143]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.15.44:487][143]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.15.44:623][151]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.15.44:709][156]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.15.44:780][160]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.15.44:869][165]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.15.44:910][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.02.22-11.15.44:958][166]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.22-11.15.45:067][172]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.22-11.15.45:102][174]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.22-11.15.45:216][181]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.22-11.15.45:340][188]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.22-11.15.45:358][189]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.15.45:483][196]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.15.45:483][196]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.15.45:629][205]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.15.45:629][205]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.15.45:711][210]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.15.45:742][212]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.15.45:856][219]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.15.45:874][220]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.15.45:927][223]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.15.45:945][224]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.15.46:068][232]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.15.46:230][239]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.15.46:324][244]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.15.46:405][249]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.15.46:525][256]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.15.46:640][263]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.15.46:706][267]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.15.46:874][277]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.15.46:955][282]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.15.46:993][283]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.15.47:181][293]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.15.47:209][293]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.15.47:216][293]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.02.22-11.15.47:242][293]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.22-11.15.47:360][300]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.22-11.15.47:457][305]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.15.47:532][309]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.15.47:550][310]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.15.47:648][316]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.15.47:893][332]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.15.47:893][332]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.15.47:893][332]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.15.47:893][332]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.15.48:119][345]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.15.48:136][346]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.15.48:136][346]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.15.48:136][346]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.15.48:473][365]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.15.48:614][374]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.15.48:632][375]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.15.48:648][376]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.15.48:921][390]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.15.48:946][391]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.15.49:116][401]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.15.49:116][401]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.15.49:216][406]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.15.49:405][414]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.15.49:423][415]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.15.49:630][426]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.15.49:703][430]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.15.49:740][432]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.15.49:936][440]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.15.50:054][446]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.15.50:142][451]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.15.50:218][455]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.15.50:396][464]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.15.50:585][473]MaterialEditorStats: Base pass shader: 121 instructions
+[2019.02.22-11.15.50:585][473]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.02.22-11.15.50:586][473]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.02.22-11.15.50:586][473]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.15.50:586][473]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.15.50:586][473]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.15.50:586][473]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.15.52:943][636]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.15.52:997][636]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.15.52:997][636]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.15.52:997][636]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.15.52:997][636]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.15.52:997][636]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.02.22-11.15.53:270][647]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.15.53:300][649]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.15.53:331][651]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.15.53:363][653]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.15.53:464][659]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.15.53:516][662]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.15.53:531][663]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.15.53:546][664]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.15.53:653][671]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.15.53:831][681]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.15.54:144][700]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.15.54:144][700]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.15.54:159][701]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.15.54:284][709]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.15.54:421][717]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.15.54:571][725]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.15.54:607][727]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.15.54:623][728]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.15.54:886][743]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.15.54:886][743]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.15.55:046][753]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.15.55:096][756]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.15.55:160][760]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.15.55:339][771]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.15.55:440][777]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.15.55:533][783]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.15.55:602][787]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.15.55:767][795]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.15.55:908][801]MaterialEditorStats: Base pass shader: 121 instructions
+[2019.02.22-11.15.55:908][801]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.02.22-11.15.55:908][801]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.02.22-11.15.55:908][801]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.22-11.15.55:908][801]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.15.55:908][801]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.15.57:155][894]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.15.57:183][894]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2019.02.22-11.15.57:198][894]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.15.57:198][894]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.15.57:198][894]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.15.57:198][894]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.15.57:479][911]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.15.57:496][912]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.15.57:527][914]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.15.57:572][917]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.15.57:711][925]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.15.57:742][927]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.15.57:772][929]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.15.57:772][929]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.15.57:932][939]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.15.58:099][948]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.15.58:253][957]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.15.58:286][959]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.15.58:429][968]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.15.58:580][977]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.15.58:619][979]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.15.58:800][990]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.15.58:880][995]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.15.58:985][  1]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.15.59:166][ 11]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.15.59:270][ 17]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.15.59:376][ 23]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.15.59:540][ 31]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.15.59:617][ 35]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.15.59:734][ 41]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.15.59:930][ 50]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.15.59:975][ 52]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.16.00:113][ 59]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.16.00:228][ 65]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.16.00:494][ 79]MaterialEditorStats: Base pass shader: 121 instructions
+[2019.02.22-11.16.00:494][ 79]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.02.22-11.16.00:494][ 79]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.02.22-11.16.00:494][ 79]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.16.00:494][ 79]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.16.00:494][ 79]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.16.00:494][ 79]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.16.06:942][221]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.16.06:968][221]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.16.07:004][222]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.16.07:004][222]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.16.07:004][222]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.16.07:004][222]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.16.07:273][238]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.16.07:312][240]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.16.07:408][246]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.16.07:442][248]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.16.07:506][252]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.16.07:542][254]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.16.07:623][258]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.16.07:640][259]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.16.07:720][263]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.16.07:956][275]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.16.08:010][278]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.16.08:159][287]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.16.08:212][290]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.16.08:313][295]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.16.08:506][302]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.16.08:615][307]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.16.08:615][307]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.16.08:697][311]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.16.08:942][322]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.16.08:991][324]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.16.09:132][331]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.16.09:177][333]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.16.09:288][338]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.16.09:436][345]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.16.09:572][351]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.16.09:656][355]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.16.10:333][373]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.02.22-11.16.10:333][373]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2019.02.22-11.16.10:333][373]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.02.22-11.16.10:333][373]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.16.10:333][373]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.16.10:333][373]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.16.10:333][373]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.16.23:369][412]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.16.23:457][413]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.16.23:457][413]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.16.23:457][413]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.16.23:457][413]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.16.23:696][427]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.16.23:749][429]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.16.23:763][430]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.16.23:815][432]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.16.23:932][437]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.16.23:972][439]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.16.23:991][440]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.16.24:026][442]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.16.24:151][449]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.16.24:352][460]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.16.24:462][466]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.16.24:503][468]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.16.24:623][475]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.16.24:781][484]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.16.24:873][489]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.16.24:995][496]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.16.25:099][502]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.16.25:115][503]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.16.25:375][518]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.16.25:414][520]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.16.25:527][527]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.16.25:633][533]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.16.25:702][537]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.16.25:871][547]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.16.26:009][555]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.16.26:072][559]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.16.26:480][584]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.02.22-11.16.26:480][584]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2019.02.22-11.16.26:480][584]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.02.22-11.16.26:480][584]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.16.26:480][584]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.16.26:480][584]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.16.26:480][584]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.16.26:910][617]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.16.26:935][617]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.16.26:971][618]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.16.26:971][618]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.16.26:971][618]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.16.26:971][618]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.16.27:263][635]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.16.27:296][637]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.16.27:314][638]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.16.27:331][639]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.16.27:504][649]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.16.27:519][650]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.16.27:519][650]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.16.27:535][651]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.16.27:739][662]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.16.27:872][669]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.16.28:046][679]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.16.28:063][680]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.16.28:222][689]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.16.28:360][697]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.16.28:411][700]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.16.28:531][707]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.16.28:683][716]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.16.28:701][717]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.16.28:881][725]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.16.28:969][729]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.16.29:056][733]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.16.29:198][739]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.16.29:296][744]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.16.29:364][747]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.16.29:549][756]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.16.29:598][758]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.16.30:633][777]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.02.22-11.16.30:633][777]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2019.02.22-11.16.30:633][777]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.02.22-11.16.30:633][777]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.16.30:633][777]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.16.30:633][777]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.16.30:633][777]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.16.56:949][856]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.16.57:250][857]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.16.57:250][857]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.16.57:250][857]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.16.57:250][857]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.16.57:737][875]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.16.57:753][876]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.16.57:771][877]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.16.57:788][878]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.16.57:984][889]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.16.57:984][889]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.16.58:000][890]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.16.58:017][891]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.16.58:204][902]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.16.58:339][909]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.16.58:502][919]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.16.58:538][921]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.16.58:693][930]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.16.58:721][930]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.16.58:799][930]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.16.58:825][930]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.16.58:825][930]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.02.22-11.16.58:832][930]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.02.22-11.16.58:838][930]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.02.22-11.16.58:968][933]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.22-11.16.59:066][939]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.22-11.16.59:098][941]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.22-11.16.59:139][943]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.16.59:248][949]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.16.59:299][952]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.16.59:332][954]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.16.59:347][955]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.16.59:467][962]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.16.59:485][963]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.16.59:539][966]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.16.59:802][981]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.16.59:822][982]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.16.59:972][991]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.17.00:026][994]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.17.00:109][998]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.17.00:309][  7]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.17.00:420][ 13]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.17.00:434][ 14]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.17.00:524][ 19]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.17.00:765][ 29]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.17.00:817][ 31]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.17.00:924][ 36]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.17.01:002][ 39]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.17.01:110][ 44]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.17.01:279][ 53]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.17.01:311][ 53]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.17.01:318][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.02.22-11.17.01:350][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2019.02.22-11.17.01:412][ 55]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.02.22-11.17.01:429][ 56]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.02.22-11.17.01:548][ 63]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.22-11.17.01:672][ 70]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.22-11.17.01:707][ 72]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.22-11.17.01:806][ 78]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.22-11.17.01:960][ 85]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.22-11.17.01:981][ 86]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.17.02:024][ 88]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.17.02:111][ 93]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.17.02:213][ 98]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.17.02:252][100]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.17.02:275][101]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.17.02:360][105]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.17.02:441][109]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.17.02:457][110]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.17.02:491][112]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.17.02:789][127]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.17.02:904][132]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.17.02:981][134]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.17.03:013][135]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.17.03:205][143]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.17.03:298][147]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.17.03:432][153]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.17.03:504][156]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.17.03:525][157]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.17.03:784][169]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.17.03:805][170]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.17.03:933][176]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.17.04:004][179]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.17.04:092][183]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.17.04:269][191]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.17.04:406][197]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.17.04:428][198]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.17.04:541][203]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.17.04:750][210]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.17.04:750][210]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.17.04:902][217]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.17.04:936][218]MaterialEditorStats: Base pass shader: 121 instructions
+[2019.02.22-11.17.04:936][218]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.02.22-11.17.04:936][218]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.02.22-11.17.04:936][218]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.17.04:936][218]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.17.04:936][218]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.17.04:936][218]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.17.19:336][330]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.17.19:373][330]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.17.19:373][330]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.17.19:373][330]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.17.19:374][330]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.17.19:374][330]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.02.22-11.17.19:431][330]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2019.02.22-11.17.19:664][342]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.17.19:698][344]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.17.19:713][345]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.17.19:762][348]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.17.19:881][355]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.17.19:915][357]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.17.19:951][359]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.17.19:967][360]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.17.20:113][369]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.17.20:263][377]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.17.20:398][385]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.17.20:471][389]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.17.20:597][396]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.17.20:701][402]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.17.20:757][403]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.17.20:954][414]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.17.21:009][417]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.17.21:062][420]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.17.21:259][431]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.17.21:279][431]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.17.21:470][441]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.17.21:548][445]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.17.21:583][447]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.17.21:605][448]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.17.21:640][448]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.02.22-11.17.21:671][448]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2019.02.22-11.17.21:758][451]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.22-11.17.21:873][457]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.22-11.17.21:973][463]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.22-11.17.22:088][469]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.22-11.17.22:151][472]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.22-11.17.22:169][473]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.17.22:258][478]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.17.22:361][484]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.17.22:395][486]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.17.22:447][489]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.17.22:502][492]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.17.22:586][496]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.17.22:622][498]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.17.22:622][498]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.17.22:733][504]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.17.22:967][515]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.17.23:105][522]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.17.23:140][524]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.17.23:223][529]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.17.23:400][538]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.17.23:466][541]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.17.23:597][547]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.17.23:698][551]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.17.23:698][551]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.17.23:941][561]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.17.24:010][564]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.17.24:092][568]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.17.24:188][572]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.17.24:279][576]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.17.24:435][583]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.17.24:584][589]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.17.24:603][590]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.17.24:699][594]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.17.24:880][602]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.17.24:903][603]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.17.25:086][611]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.17.25:091][611]MaterialEditorStats: Base pass shader: 121 instructions
+[2019.02.22-11.17.25:091][611]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.02.22-11.17.25:091][611]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.02.22-11.17.25:091][611]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.17.25:091][611]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.17.25:091][611]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.17.25:091][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.46.09:578][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.22-11.47.02:892][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.22-11.47.07:730][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (untitlede2)
+[2019.02.22-11.47.08:373][372]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2019.02.22-11.47.09:273][438]Cmd: DELETE
+[2019.02.22-11.47.09:273][438]Cmd: ACTOR DELETE
+[2019.02.22-11.47.09:281][438]LogEditorActor: Deleted Actor: DocumentationActor
+[2019.02.22-11.47.09:361][438]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.02.22-11.47.19:074][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-11.47.23:621][561]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.47.23:691][562]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.47.23:691][562]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.47.23:691][562]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.47.23:691][562]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.47.24:539][618]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.47.24:552][619]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.47.24:552][619]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.47.24:571][620]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.47.24:750][631]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.47.24:768][632]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.47.24:785][633]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.47.24:801][634]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.47.24:974][645]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.47.25:089][651]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.47.25:276][662]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.47.25:293][663]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.47.25:455][673]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.47.25:571][679]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.47.25:571][679]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.47.25:741][689]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.47.25:873][696]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.47.25:920][699]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.47.26:039][706]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.47.26:169][713]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.47.26:243][717]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.47.26:393][726]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.47.26:456][730]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.47.26:542][735]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.47.26:744][747]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.47.26:759][748]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.47.27:177][775]MaterialEditorStats: Base pass shader: 121 instructions
+[2019.02.22-11.47.27:177][775]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.02.22-11.47.27:177][775]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.02.22-11.47.27:177][775]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.47.27:177][775]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.47.27:177][775]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.47.27:177][775]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.48.02:066][601]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/ThirdPersonExampleMap_Auto167C0AACC413DEC531B9B50BA4B0D156E.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.02.22-11.48.02:091][601]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.326
+[2019.02.22-11.48.02:091][601]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.326
+[2019.02.22-11.48.50:015][154]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.48.50:041][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.02.22-11.48.50:055][154]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.48.50:055][154]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.48.50:055][154]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.48.50:055][154]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.48.50:069][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.02.22-11.48.50:097][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.02.22-11.48.50:831][200]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.22-11.48.50:831][200]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.48.50:848][201]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.48.50:848][201]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.48.51:050][213]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.48.51:050][213]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.48.51:066][214]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.48.51:082][215]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.48.51:248][225]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.48.51:380][232]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.48.51:540][242]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.48.51:559][243]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.48.51:713][252]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.48.51:828][259]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.48.51:865][261]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.48.52:015][270]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.48.52:136][277]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.48.52:172][279]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.48.52:339][289]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.48.52:424][294]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.48.52:512][298]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.48.52:636][304]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.48.52:735][310]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.48.52:852][316]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.48.53:004][324]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.48.53:021][325]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.48.53:156][333]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.48.53:195][335]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.48.53:235][335]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2019.02.22-11.48.53:279][336]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.02.22-11.48.53:299][337]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.22-11.48.53:461][346]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.22-11.48.53:515][349]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.22-11.48.53:563][352]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.22-11.48.53:686][359]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.22-11.48.53:738][362]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.48.53:843][368]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.48.53:900][371]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.48.53:962][375]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.48.54:013][378]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.48.54:112][384]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.48.54:130][385]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.48.54:197][389]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.48.54:247][392]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.48.54:320][395]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.48.54:321][395]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.48.54:401][400]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.48.54:629][413]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.48.54:728][419]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.48.54:807][424]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.48.54:877][428]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.48.55:023][437]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.48.55:114][442]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.48.55:263][450]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.48.55:314][453]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.48.55:352][455]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.48.55:507][464]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.48.55:542][464]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.02.22-11.48.55:587][465]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.22-11.48.55:605][466]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.22-11.48.55:750][475]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.22-11.48.55:806][478]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.48.55:889][483]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.48.55:938][486]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.48.56:050][493]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.48.56:085][495]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.48.56:153][499]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.48.56:169][500]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.48.56:268][506]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.48.56:324][509]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.48.56:341][510]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.48.56:374][512]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.48.56:548][520]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.48.56:669][526]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.48.56:782][533]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.48.56:820][535]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.48.57:014][546]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.48.57:084][550]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.48.57:150][553]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.48.57:269][560]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.48.57:387][567]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.48.57:463][571]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.48.57:491][571]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.48.57:502][571]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.02.22-11.48.57:620][576]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.22-11.48.57:675][579]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.22-11.48.57:778][585]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.48.57:851][589]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.48.57:900][592]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.48.57:979][597]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.48.58:047][601]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.48.58:111][605]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.48.58:131][606]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.48.58:200][610]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.48.58:266][614]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.48.58:318][617]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.48.58:351][619]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.48.58:414][623]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.48.58:638][634]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.48.58:709][638]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.48.58:818][645]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.48.58:870][648]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.48.58:987][655]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.48.59:104][662]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.48.59:271][672]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.48.59:271][672]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.48.59:321][675]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.48.59:652][695]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.48.59:668][695]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.48.59:774][702]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.48.59:790][703]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.48.59:940][712]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.49.00:073][719]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.49.00:106][719]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.02.22-11.49.00:133][719]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.22-11.49.00:227][725]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.22-11.49.00:263][727]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.22-11.49.00:280][728]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.49.00:508][741]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.49.00:508][741]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.49.00:562][744]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.49.00:578][745]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.49.00:746][755]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.49.00:789][757]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.49.00:805][758]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.49.00:824][759]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.49.00:963][767]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.49.00:980][768]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.49.01:028][771]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.49.01:288][786]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.49.01:308][787]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.49.01:491][797]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.49.01:491][797]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.49.01:623][805]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.49.01:820][816]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.49.01:933][823]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.49.01:968][825]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.49.01:984][826]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.49.02:270][842]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.49.02:291][843]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.49.02:429][851]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.49.02:481][854]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.49.02:580][860]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.49.02:787][872]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.49.02:889][878]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.49.02:958][882]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.49.03:039][887]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.49.03:225][898]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.49.03:399][908]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.02.22-11.49.03:399][908]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2019.02.22-11.49.03:399][908]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.02.22-11.49.03:399][908]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.49.03:399][908]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.49.03:399][908]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.49.03:400][908]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.49.12:612][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-11.49.12:686][643]LogMaterialEditor: Applying material M_Landscape_Layer
+[2019.02.22-11.49.13:461][643]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.49.13:552][643]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.49.13:552][643]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.49.13:552][643]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.49.13:552][643]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.49.13:609][643]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.49.13:639][643]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.49.13:667][643]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.49.13:817][643]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.02.22-11.49.13:817][643]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Landscape_Layer, compiling. 
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.02.22-11.49.16:077][643]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.02.22-11.49.16:081][643]TextureStreamingBuild: Display: Compiling optional shaders took 2.273 seconds.
+[2019.02.22-11.49.16:182][643]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.02.22-11.49.18:246][748]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.02.22-11.49.18:577][768]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.02.22-11.49.19:817][840]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.49.20:054][854]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.49.20:084][855]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.02.22-11.49.20:084][855]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2019.02.22-11.49.20:084][855]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.02.22-11.49.20:084][855]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.49.20:084][855]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.49.20:084][855]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.49.20:084][855]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.49.22:442][992]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.49.22:531][998]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.49.34:770][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-11.49.36:959][118]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.49.36:982][118]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.49.36:982][118]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.49.36:982][118]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.49.36:982][118]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.49.36:984][118]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.49.37:382][142]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.49.37:436][145]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.49.37:452][146]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.49.37:533][151]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.49.37:675][159]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.49.37:712][161]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.49.37:728][162]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.49.37:759][164]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.49.37:893][172]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.49.37:928][174]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.49.37:945][175]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.49.37:945][175]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.49.38:119][186]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.49.38:252][193]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.49.38:396][201]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.49.38:433][203]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.49.38:570][211]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.49.38:689][218]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.49.38:728][220]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.49.38:904][230]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.49.38:973][234]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.49.39:061][239]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.49.39:203][247]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.49.39:274][251]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.49.39:393][258]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.49.39:501][264]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.49.39:551][267]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.49.39:685][275]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.49.39:833][283]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.49.39:886][286]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.49.40:271][310]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.02.22-11.49.40:271][310]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2019.02.22-11.49.40:271][310]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.02.22-11.49.40:271][310]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.49.40:271][310]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.49.40:271][310]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.49.40:271][310]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.50.47:730][663]LogMaterialEditor: Applying material M_Landscape_Layer
+[2019.02.22-11.50.48:492][663]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.50.48:583][663]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.50.48:583][663]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.50.48:583][663]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.50.48:583][663]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.50.48:632][663]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.50.48:661][663]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.50.48:691][663]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.50.48:827][663]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Landscape_Layer, compiling. 
+[2019.02.22-11.50.51:634][663]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.02.22-11.50.51:634][663]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.02.22-11.50.51:634][663]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.02.22-11.50.51:634][663]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.02.22-11.50.51:634][663]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.02.22-11.50.51:634][663]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.02.22-11.50.51:634][663]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.02.22-11.50.51:634][663]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.02.22-11.50.51:634][663]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.02.22-11.50.51:634][663]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.02.22-11.50.51:634][663]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.02.22-11.50.51:634][663]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.02.22-11.50.51:634][663]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.02.22-11.50.51:634][663]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.02.22-11.50.51:635][663]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.02.22-11.50.51:639][663]TextureStreamingBuild: Display: Compiling optional shaders took 2.818 seconds.
+[2019.02.22-11.50.51:730][663]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.02.22-11.50.53:833][763]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.02.22-11.50.54:190][783]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.02.22-11.50.55:503][857]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.50.55:557][860]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.50.55:580][861]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.02.22-11.50.55:581][861]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2019.02.22-11.50.55:581][861]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.02.22-11.50.55:581][861]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.50.55:581][861]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.50.55:581][861]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.50.55:581][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.50.58:195][ 11]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.50.58:210][ 12]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.52.24:669][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-11.52.30:223][ 32]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.52.30:245][ 32]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.52.30:245][ 32]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.52.30:245][ 32]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.52.30:245][ 32]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.52.30:248][ 32]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.52.31:142][ 91]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.52.31:142][ 91]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.52.31:158][ 92]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.52.31:158][ 92]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.52.31:413][107]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.52.31:696][130]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.52.31:696][130]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.52.31:709][131]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.52.31:895][141]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.52.31:931][143]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.52.31:947][144]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.52.31:947][144]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.52.32:104][154]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.52.32:257][162]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.52.32:403][171]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.52.32:455][174]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.52.32:575][181]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.52.32:708][189]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.52.32:743][191]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.52.32:899][200]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.52.32:985][205]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.52.33:037][208]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.52.33:222][219]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.52.33:289][223]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.52.33:401][230]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.52.33:493][235]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.52.33:560][239]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.52.33:711][248]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.52.33:850][256]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.52.33:898][259]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.52.34:297][284]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.02.22-11.52.34:297][284]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2019.02.22-11.52.34:297][284]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.02.22-11.52.34:297][284]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.52.34:297][284]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.52.34:297][284]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.52.34:297][284]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.52.38:586][633]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.52.38:621][634]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.52.38:621][634]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.52.38:621][634]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.52.38:621][634]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.52.38:903][651]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.52.38:935][653]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.52.38:935][653]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.52.38:982][656]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.52.39:129][665]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.52.39:145][666]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.52.39:160][667]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.52.39:160][667]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.52.39:337][678]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.52.39:450][684]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.52.39:598][693]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.52.39:667][697]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.52.39:788][704]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.52.39:900][711]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.52.39:951][714]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.52.40:119][724]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.52.40:187][728]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.52.40:240][731]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.52.40:427][742]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.52.40:470][744]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.52.40:623][753]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.52.40:714][758]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.52.40:752][760]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.52.40:846][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-11.52.40:918][770]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.52.41:053][777]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.52.41:134][782]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.52.41:511][805]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.02.22-11.52.41:511][805]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2019.02.22-11.52.41:511][805]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.02.22-11.52.41:511][805]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.52.41:511][805]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.52.41:511][805]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.52.41:511][805]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.52.42:250][865]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.52.42:275][865]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.52.42:309][866]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.52.42:309][866]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.52.42:309][866]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.52.42:309][866]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.52.42:660][888]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.52.42:661][888]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.52.42:661][888]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.52.42:661][888]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.52.42:877][901]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.52.42:894][902]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.52.42:894][902]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.52.42:909][903]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.52.43:095][915]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.52.43:190][920]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.52.43:378][931]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.52.43:412][933]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.52.43:564][942]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.52.43:682][949]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.52.43:701][950]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.52.43:876][960]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.52.43:980][966]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.52.44:017][968]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.52.44:183][978]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.52.44:275][983]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.52.44:388][990]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.52.44:501][996]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.52.44:578][  0]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.52.44:701][  7]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.52.44:875][ 17]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.52.44:912][ 19]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.52.45:317][ 44]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.02.22-11.52.45:317][ 44]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2019.02.22-11.52.45:318][ 44]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.02.22-11.52.45:318][ 44]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.52.45:318][ 44]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.52.45:318][ 44]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.52.45:318][ 44]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.52.47:334][207]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.52.47:368][208]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.52.47:368][208]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.52.47:368][208]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.52.47:368][208]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.52.47:678][227]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.52.47:709][229]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.52.47:725][230]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.52.47:742][231]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.52.47:903][241]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.52.47:920][242]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.52.47:937][243]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.52.47:954][244]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.52.48:113][254]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.52.48:245][260]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.52.48:390][269]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.52.48:428][271]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.52.48:580][280]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.52.48:698][287]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.52.48:752][290]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.52.48:901][298]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.52.48:967][302]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.52.49:051][307]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.52.49:211][316]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.52.49:275][320]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.52.49:404][328]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.52.49:513][334]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.52.49:565][337]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.52.49:685][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-11.52.49:703][345]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.52.49:755][348]LogMaterialEditor: Applying material M_Landscape_Layer
+[2019.02.22-11.52.50:602][348]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.52.50:602][348]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.52.50:624][348]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.52.50:714][348]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.52.50:714][348]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.52.50:714][348]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.52.50:714][348]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.52.50:865][348]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.52.50:902][348]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.52.50:932][348]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.52.50:940][348]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.52.51:106][348]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.02.22-11.52.51:106][348]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.02.22-11.52.51:106][348]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.02.22-11.52.51:113][348]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Landscape_Layer, compiling. 
+[2019.02.22-11.52.53:290][348]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.02.22-11.52.53:290][348]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.02.22-11.52.53:290][348]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.02.22-11.52.53:291][348]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.02.22-11.52.53:294][348]TextureStreamingBuild: Display: Compiling optional shaders took 2.188 seconds.
+[2019.02.22-11.52.55:557][457]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.02.22-11.52.55:702][466]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.02.22-11.52.57:143][548]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.52.57:143][548]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.52.57:170][549]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.02.22-11.52.57:170][549]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2019.02.22-11.52.57:170][549]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.02.22-11.52.57:170][549]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.52.57:170][549]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.52.57:170][549]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.52.57:170][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.52.59:705][693]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.52.59:824][700]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.53.12:039][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-11.53.13:310][722]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.53.13:335][722]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.53.13:369][723]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.53.13:369][723]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.53.13:369][723]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.53.13:369][723]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.53.13:711][747]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.53.13:743][749]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.53.13:782][751]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.53.13:797][752]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.53.13:944][761]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.53.13:980][763]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.53.13:980][763]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.53.13:999][764]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.53.14:171][775]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.53.14:297][781]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.53.14:451][790]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.53.14:486][792]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.53.14:636][801]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.53.14:758][808]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.53.14:812][811]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.53.14:948][819]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.53.15:063][826]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.53.15:121][829]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.53.15:278][838]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.53.15:303][839]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.53.15:365][841]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.53.15:449][846]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.53.15:589][854]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.53.15:643][857]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.53.15:738][863]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.22-11.53.15:776][865]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.22-11.53.15:862][870]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-11.53.15:896][872]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.22-11.53.15:960][876]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.22-11.53.16:007][879]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.53.16:082][883]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.22-11.53.16:082][883]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.22-11.53.16:161][888]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.22-11.53.16:390][901]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.22-11.53.16:485][906]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.22-11.53.16:595][913]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.22-11.53.16:634][915]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-11.53.16:791][924]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.22-11.53.16:898][930]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.22-11.53.17:073][940]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.53.17:091][941]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.22-11.53.17:108][942]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.22-11.53.17:367][957]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-11.53.17:392][958]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.22-11.53.17:612][971]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.22-11.53.17:612][971]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.22-11.53.17:684][975]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-11.53.17:884][987]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.22-11.53.18:001][993]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-11.53.18:113][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.53.18:461][ 21]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.02.22-11.53.18:461][ 21]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2019.02.22-11.53.18:461][ 21]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.02.22-11.53.18:461][ 21]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.53.18:461][ 21]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.53.18:461][ 21]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.53.18:461][ 21]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.53.24:881][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-11.53.24:967][547]LogMaterialEditor: Applying material M_Landscape_Layer
+[2019.02.22-11.53.25:715][547]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.53.25:805][547]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.22-11.53.25:805][547]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.22-11.53.25:805][547]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.22-11.53.25:805][547]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.22-11.53.25:853][547]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.53.25:882][547]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.53.25:910][547]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-11.53.26:070][547]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Landscape_Layer, compiling. 
+[2019.02.22-11.53.28:428][547]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.02.22-11.53.28:429][547]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.02.22-11.53.28:433][547]TextureStreamingBuild: Display: Compiling optional shaders took 2.371 seconds.
+[2019.02.22-11.53.30:649][640]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.02.22-11.53.30:991][655]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.02.22-11.53.32:393][713]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.22-11.53.32:445][715]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.22-11.53.32:491][716]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.02.22-11.53.32:491][716]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2019.02.22-11.53.32:491][716]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.02.22-11.53.32:491][716]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.22-11.53.32:491][716]MaterialEditorStats: Texture samplers: 6/16
+[2019.02.22-11.53.32:491][716]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.02.22-11.53.32:491][716]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.22-11.53.35:461][815]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.22-11.53.35:643][822]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.22-11.54.04:549][ 86]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.02.22-11.57.16:404][769]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.22-11.57.45:598][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-11.59.19:269][590]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.074
+[2019.02.22-11.59.19:271][590]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Landscape_Layer] ([1] browsable assets)...
+[2019.02.22-11.59.19:301][590]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Landscape_Layer.M_Landscape_Layer]
+[2019.02.22-11.59.19:301][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Landscape_Layer]
+[2019.02.22-11.59.19:331][590]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/M_Landscape_Layer_Auto22025FF86481EDEF9CCED419817316D64.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/Autosaves/Game/StarterContent/Materials/M_Landscape_Layer_Auto2.uasset'
+[2019.02.22-11.59.19:332][590]LogFileHelpers: Auto-saving content packages took 0.063
+[2019.02.22-12.07.18:100][160]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.22-12.07.18:729][225]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.22-12.07.42:352][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.22-12.07.43:654][849]MapCheck: New page: Map Check
+[2019.02.22-12.07.43:674][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.22-12.07.43:679][849]LightingResults: New page: Lighting Build - 22 Feb 2019 12:07:43
+[2019.02.22-12.07.43:937][849]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.22-12.07.44:012][849]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.22-12.07.44:073][849]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.22-12.07.45:169][849]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.22-12.07.45:169][849]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9092
+[2019.02.22-12.07.49:068][849]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.02.22-12.07.49:068][849]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.22-12.07.49:069][849]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.22-12.07.49:069][849]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.22-12.07.49:069][849]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.22-12.07.49:069][849]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.22-12.07.49:392][849]LogEditorBuildUtils: Build time 0:05
+[2019.02.22-12.07.49:429][850]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Landscape_Layer, compiling. 
+[2019.02.22-12.07.49:435][850]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Landscape_Layer, compiling. 
+[2019.02.22-12.07.49:447][851]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-12.07.49:459][851]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-12.07.49:459][851]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1490, compiling. 
+[2019.02.22-12.07.49:467][851]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1490, compiling. 
+[2019.02.22-12.07.49:483][852]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-12.07.49:483][852]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.22-12.07.56:863][906]Job is a success!
+[2019.02.22-12.07.57:785][907]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.166s
+[2019.02.22-12.07.57:785][907]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.02.22-12.07.57:785][907]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.5Mb (trimmed 0.6Mb due to 0.010000 MinBrickError)
+[2019.02.22-12.07.57:785][907]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.22-12.07.57:785][907]LogVolumetricLightmapImport:          0: 2.8% covering 100.0% of volume
+[2019.02.22-12.07.57:785][907]LogVolumetricLightmapImport:          1: 7.0% covering 3.9% of volume
+[2019.02.22-12.07.57:785][907]LogVolumetricLightmapImport:          2: 90.1% covering 0.8% of volume
+[2019.02.22-12.07.57:893][907]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2019.02.22-12.07.57:893][907]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.02.22-12.07.57:893][907]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.02.22-12.07.57:894][907]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2019.02.22-12.07.57:894][907]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.02.22-12.07.57:894][907]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.02.22-12.07.57:894][907]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.02.22-12.07.57:894][907]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X64)
+[2019.02.22-12.07.58:030][907]Lightmass on DAN-PC: 4.92 sec total, 373 ms importing, 48 ms setup, 821 ms photons, 3.52 sec processing, 0 ms extra exporting [18/18 mappings]. Threads: 24.5 sec total, 2.42 sec processing.
+[2019.02.22-12.07.58:148][907]LogStaticLightingSystem: Illumination: 14.1 sec (68 ms encoding lightmaps, 13 ms encoding shadowmaps)
+[2019.02.22-12.07.58:148][907]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.02.22-12.07.58:148][907]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.02.22-12.07.59:073][907]DumpUnbuiltLightIteractions
+[2019.02.22-12.07.59:073][907]Lights with unbuilt interactions: 0
+[2019.02.22-12.07.59:073][907]
+[2019.02.22-12.07.59:073][907]Primitives with unbuilt interactions: 0
+[2019.02.22-12.07.59:233][908]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.22-12.07.59:233][908]MapCheck: New page: ThirdPersonExampleMap - 22 Feb 2019 12:07:59
+[2019.02.22-12.07.59:233][908]MapCheck: Warning: untitlede_2 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.02.22-12.07.59:233][908]MapCheck: Warning: untitlede_2 Skeletal mesh actor has NULL SkeletalMesh property 
+[2019.02.22-12.07.59:295][908]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 62.246ms to complete.
+[2019.02.22-12.08.13:652][ 84]LogSlate: Took 0.002172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.22-12.08.34:632][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-12.08.34:702][ 11]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.22-12.08.34:719][ 11]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.22-12.08.34:719][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.22-12.08.34:719][ 11]PIE: New page: PIE session: ThirdPersonExampleMap (22 Feb 2019 12:08:34)
+[2019.02.22-12.08.34:719][ 11]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.22-12.08.34:741][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021570s)
+[2019.02.22-12.08.34:741][ 11]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.22-12.08.34:742][ 11]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2019.02.22-12.08.34:742][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022568s)
+[2019.02.22-12.08.34:829][ 11]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.22-12.08.34:844][ 11]LogInit: FAudioDevice initialized.
+[2019.02.22-12.08.34:874][ 11]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.22-12.08.34:877][ 11]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.22-12.08.34
+[2019.02.22-12.08.34:877][ 11]LogWorld: Bringing up level for play took: 0.002530
+[2019.02.22-12.08.34:889][ 11]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.264
+[2019.02.22-12.08.34:889][ 11]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.22-12.08.52:103][ 64]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.22-12.08.52:103][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-12.08.52:139][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.22-12.08.52:140][ 64]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.22-12.08.52:219][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-12.08.52:246][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.02.22-12.09.03:460][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-12.09.03:906][388]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-12.09.03:916][388]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-12.09.03:923][388]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.22-12.09.03:930][388]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-12.09.03:945][388]LogMaterial: Display: Missing cached shader map for material M_Landscape_Layer, compiling. 
+[2019.02.22-12.09.03:960][388]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.02.22-12.09.04:048][392]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.22-12.09.04:048][392]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.22-12.09.04:048][392]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.22-12.09.09:480][873]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.02.22-12.09.13:201][875]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.02.22-12.09.13:202][875]LogWindows: Error: === Critical error: ===
+[2019.02.22-12.09.13:202][875]LogWindows: Error: 
+[2019.02.22-12.09.13:202][875]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 826] 
+[2019.02.22-12.09.13:202][875]LogWindows: Error: Rendering thread exception:
+[2019.02.22-12.09.13:202][875]LogWindows: Error: Assertion failed: bValid || !bFailOnInvalid [File:d:\build\++ue4\sync\engine\source\runtime\engine\public\MaterialShared.h] [Line: 868] 
+[2019.02.22-12.09.13:202][875]LogWindows: Error: FMaterialShaderMap M_Landscape_Layer invalid for rendering: bCompilationFinalized: 1, bCompiledSuccessfully: 1, bDeletedThroughDeferredCleanup: 1
+[2019.02.22-12.09.13:202][875]LogWindows: Error: 
+[2019.02.22-12.09.13:202][875]LogWindows: Error: 
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007fefd1ba06d KERNELBASE.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007feca6a6850 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007fec38e62fc UE4Editor-Core.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007fec38751db UE4Editor-Core.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007febf00e94d UE4Editor-Renderer.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007febefbaee8 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007febe9ce105 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007febe930b8f UE4Editor-Renderer.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007febe9318cc UE4Editor-Renderer.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007febe979544 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007febe9b7f79 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007febe9b7aaa UE4Editor-Renderer.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007febea3a6f0 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007febef66982 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007febef38fb2 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007fec3701f92 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007fec3702456 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007feca6375f9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007feca638574 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007fec3b46b7c UE4Editor-Core.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000007fec3b417c7 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x00000000772259cd kernel32.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: [Callstack] 0x000000007748383d ntdll.dll!UnknownFunction []
+[2019.02.22-12.09.13:202][875]LogWindows: Error: 
+[2019.02.22-12.09.13:202][875]LogWindows: Error: 
+[2019.02.22-12.09.13:202][875]LogWindows: Error: 
+[2019.02.22-12.09.13:202][875]LogWindows: Error: 
+[2019.02.22-12.09.13:214][875]LogExit: Executing StaticShutdownAfterError
+[2019.02.22-12.09.13:217][875]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.02.22-12.09.13:218][875]Log file closed, 02/22/19 12:09:13
