@@ -1,0 +1,948 @@
+﻿Log file open, 04/08/19 16:22:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GroupProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.345699
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.178s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU: AMD FX(tm)-9370 Eight-Core Processor           , GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: G:/Unreal Engine Install Directory/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.08-15.22.52:005][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.08-15.22.52:005][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.08-15.22.52:020][  0]LogHAL: Display: Platform has ~ 16 GB [17072640000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.08-15.22.52:020][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.04.08-15.22.52:020][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.08-15.22.52:020][  0]LogInit: Computer: DAN-PC
+[2019.04.08-15.22.52:020][  0]LogInit: User: Dan
+[2019.04.08-15.22.52:020][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.08-15.22.52:020][  0]LogInit: High frequency timer resolution =4.311425 MHz
+[2019.04.08-15.22.52:021][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.08-15.22.52:021][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.08-15.22.52:021][  0]LogMemory: Process Physical Memory: 104.54 MB used, 104.54 MB peak
+[2019.04.08-15.22.52:021][  0]LogMemory: Process Virtual Memory: 93.32 MB used, 93.32 MB peak
+[2019.04.08-15.22.52:021][  0]LogMemory: Physical Memory: 6310.18 MB used,  9971.56 MB free, 16281.74 MB total
+[2019.04.08-15.22.52:021][  0]LogMemory: Virtual Memory: 493.65 MB used,  9971.56 MB free, 8388608.00 MB total
+[2019.04.08-15.22.52:322][  0]LogInit: Using OS detected language (en-GB).
+[2019.04.08-15.22.52:322][  0]LogInit: Using OS detected locale (en-GB).
+[2019.04.08-15.22.52:324][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.04.08-15.22.52:818][  0]LogStreaming: Display: Took  0.497s to InitEngineTextLocalization.
+[2019.04.08-15.22.52:818][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.04.08-15.22.52:818][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.04.08-15.22.52:818][  0]LogInit: Setting process to DPI aware
+[2019.04.08-15.22.52:918][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.08-15.22.52:918][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.08-15.22.53:154][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.08-15.22.53:155][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.08-15.22.53:315][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.04.08-15.22.53:315][  0]LogD3D11RHI:       4007/0/7884 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.04.08-15.22.53:315][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.08-15.22.53:323][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.08-15.22.53:323][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.08-15.22.53:323][  0]LogWindows: EnumDisplayDevices:
+[2019.04.08-15.22.53:323][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.04.08-15.22.53:323][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.04.08-15.22.53:324][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.04.08-15.22.53:324][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.04.08-15.22.53:324][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2019.04.08-15.22.53:325][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.04.08-15.22.53:326][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.04.08-15.22.53:326][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.08-15.22.53:326][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.04.08-15.22.53:326][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.04.08-15.22.53:326][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.04.08-15.22.53:326][  0]LogRHI: Texture pool is 2805 MB (70% of 4007 MB)
+[2019.04.08-15.22.53:344][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.08-15.22.53:404][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.08-15.22.53:503][  0]LogShaderCompilers: Guid format shader working directory is -74 characters bigger than the processId version (../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Intermediate/Shaders/WorkingDirectory/1928/).
+[2019.04.08-15.22.53:503][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dan/AppData/Local/Temp/UnrealShaderWorkingDir/D630AC8642987BCE678D96BB0259D8A1/'.
+[2019.04.08-15.22.54:210][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.08-15.22.54:249][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.08-15.22.54:289][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.08-15.22.54:330][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.08-15.22.54:371][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.08-15.22.54:410][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.08-15.22.54:453][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.08-15.22.54:495][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.08-15.22.54:523][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-15.22.54:687][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.08-15.22.54:815][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.08-15.22.54:815][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.08-15.22.54:873][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.08-15.22.54:873][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.08-15.22.54:916][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.08-15.22.54:956][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.08-15.22.54:996][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.08-15.22.55:035][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.08-15.22.55:065][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.08-15.22.55:065][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.08-15.22.55:697][  0]LogXGEController: Cleaning working directory: C:/Users/Dan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.08-15.22.55:697][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.08-15.22.55:697][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.08-15.22.55:697][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.08-15.22.56:841][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.08-15.22.56:973][  0]LogDerivedDataCache: Loaded boot cache 0.13s 71MB C:/Users/Dan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.08-15.22.56:974][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.04.08-15.22.56:974][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.08-15.22.56:974][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.08-15.22.56:974][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.08-15.22.56:974][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.08-15.22.56:997][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.08-15.22.57:010][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.08-15.22.57:010][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.08-15.22.57:010][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.08-15.22.57:037][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.08-15.22.57:039][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.08-15.22.57:039][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.08-15.22.57:182][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2019.04.08-15.22.57:717][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.08-15.22.58:192][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.08-15.22.58:262][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.08-15.22.58:262][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.08-15.22.58:262][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.08-15.22.58:262][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.08-15.22.58:299][  0]LogNetVersion: GroupProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 857663312)
+[2019.04.08-15.22.59:067][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.148577 seconds
+[2019.04.08-15.22.59:075][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.04.08-15.22.59:075][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.04.08-15.22.59:075][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.08-15.23.01:844][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.08-15.23.01:880][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.08-15.23.02:506][  0]SourceControl: Source control is disabled
+[2019.04.08-15.23.02:508][  0]SourceControl: Source control is disabled
+[2019.04.08-15.23.02:551][  0]SourceControl: Source control is disabled
+[2019.04.08-15.23.02:572][  0]SourceControl: Source control is disabled
+[2019.04.08-15.23.03:579][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.08-15.23.03:803][  0]LogOcInput: OculusInput pre-init called
+[2019.04.08-15.23.04:000][  0]LogEngine: Initializing Engine...
+[2019.04.08-15.23.04:002][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.08-15.23.04:004][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.08-15.23.04:004][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.08-15.23.04:004][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.08-15.23.04:004][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.08-15.23.04:320][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.08-15.23.04:380][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.08-15.23.04:422][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.08-15.23.04:446][  0]LogInit: FAudioDevice initialized.
+[2019.04.08-15.23.04:446][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.08-15.23.04:583][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/Dan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.08-15.23.04:599][  0]LogInit: Texture streaming: Enabled
+[2019.04.08-15.23.04:706][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.08-15.23.04:746][  0]LogInit: Transaction tracking system initialized
+[2019.04.08-15.23.04:892][  0]BlueprintLog: New page: Editor Load
+[2019.04.08-15.23.05:561][  0]LocalizationService: Localization service is disabled
+[2019.04.08-15.23.06:269][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.08-15.23.06:269][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.08-15.23.06:269][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.08-15.23.06:269][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.08-15.23.06:269][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.08-15.23.06:269][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.08-15.23.06:269][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.08-15.23.07:032][  0]LogFileCache: Scanning file cache for directory 'G:/Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/' took 0.05s
+[2019.04.08-15.23.07:076][  0]SourceControl: Source control is disabled
+[2019.04.08-15.23.07:076][  0]LightingResults: New page: Lighting Build
+[2019.04.08-15.23.07:082][  0]MapCheck: New page: Map Check
+[2019.04.08-15.23.07:082][  0]LightingResults: New page: Lighting Build
+[2019.04.08-15.23.07:385][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/defaultMat'
+[2019.04.08-15.23.07:385][  0]LoadErrors: Failed to load /Game/Blueprints/StarterContent/Architecture/Door_Left.Door_Left Referenced by Door_Left_GEN_VARIABLE
+[2019.04.08-15.23.07:385][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/defaultMat' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/StarterContent/Architecture/Door_Left.uasset.
+[2019.04.08-15.23.07:385][  0]LoadErrors: Failed to load /Game/Blueprints/StarterContent/Architecture/Door_Left.Door_Left Referenced by Door_Left_GEN_VARIABLE
+[2019.04.08-15.23.07:385][  0]LoadErrors: Error: /Game/Blueprints/StarterContent/Architecture/Door_Left : Can't find file for asset. /Game/StarterContent/Architecture/defaultMat
+[2019.04.08-15.23.07:385][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/defaultMat'
+[2019.04.08-15.23.07:385][  0]LoadErrors: Failed to load /Game/Blueprints/StarterContent/Architecture/Door_Left.Door_Left Referenced by Door_Left_GEN_VARIABLE
+[2019.04.08-15.23.07:385][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/defaultMat' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/StarterContent/Architecture/Door_Left.uasset.
+[2019.04.08-15.23.07:386][  0]LoadErrors: Failed to load /Game/Blueprints/StarterContent/Architecture/Door_Left.Door_Left Referenced by Door_Left_GEN_VARIABLE
+[2019.04.08-15.23.07:386][  0]LoadErrors: Error: /Game/Blueprints/StarterContent/Architecture/Door_Left : Can't find file for asset. /Game/StarterContent/Architecture/defaultMat
+[2019.04.08-15.23.07:392][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/defaultMat'
+[2019.04.08-15.23.07:392][  0]LoadErrors: Failed to load /Game/Blueprints/StarterContent/Architecture/Door_Right.Door_Right Referenced by Door_Right_GEN_VARIABLE
+[2019.04.08-15.23.07:392][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/defaultMat' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/StarterContent/Architecture/Door_Right.uasset.
+[2019.04.08-15.23.07:392][  0]LoadErrors: Failed to load /Game/Blueprints/StarterContent/Architecture/Door_Right.Door_Right Referenced by Door_Right_GEN_VARIABLE
+[2019.04.08-15.23.07:392][  0]LoadErrors: Error: /Game/Blueprints/StarterContent/Architecture/Door_Right : Can't find file for asset. /Game/StarterContent/Architecture/defaultMat
+[2019.04.08-15.23.07:393][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/defaultMat'
+[2019.04.08-15.23.07:393][  0]LoadErrors: Failed to load /Game/Blueprints/StarterContent/Architecture/Door_Right.Door_Right Referenced by Door_Right_GEN_VARIABLE
+[2019.04.08-15.23.07:393][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/defaultMat' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/StarterContent/Architecture/Door_Right.uasset.
+[2019.04.08-15.23.07:393][  0]LoadErrors: Failed to load /Game/Blueprints/StarterContent/Architecture/Door_Right.Door_Right Referenced by Door_Right_GEN_VARIABLE
+[2019.04.08-15.23.07:393][  0]LoadErrors: Error: /Game/Blueprints/StarterContent/Architecture/Door_Right : Can't find file for asset. /Game/StarterContent/Architecture/defaultMat
+[2019.04.08-15.23.07:997][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/defaultMat'
+[2019.04.08-15.23.07:997][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/defaultMat.defaultMat Referenced by Door_Right
+[2019.04.08-15.23.07:997][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/defaultMat' while loading NULL.
+[2019.04.08-15.23.07:997][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/defaultMat.defaultMat Referenced by Door_Right
+[2019.04.08-15.23.07:997][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/defaultMat'
+[2019.04.08-15.23.07:997][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/defaultMat.defaultMat Referenced by Door_Right
+[2019.04.08-15.23.07:997][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/defaultMat' while loading NULL.
+[2019.04.08-15.23.07:997][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/defaultMat.defaultMat Referenced by Door_Right
+[2019.04.08-15.23.08:003][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/defaultMat'
+[2019.04.08-15.23.08:003][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/defaultMat.defaultMat Referenced by Door_Left
+[2019.04.08-15.23.08:004][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/defaultMat' while loading NULL.
+[2019.04.08-15.23.08:004][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/defaultMat.defaultMat Referenced by Door_Left
+[2019.04.08-15.23.08:004][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/defaultMat'
+[2019.04.08-15.23.08:004][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/defaultMat.defaultMat Referenced by Door_Left
+[2019.04.08-15.23.08:004][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/defaultMat' while loading NULL.
+[2019.04.08-15.23.08:004][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/defaultMat.defaultMat Referenced by Door_Left
+[2019.04.08-15.23.08:164][  0]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.04.08-15.23.08:165][  0]LogMaterial: Warning: G:\Documents\Uni\Northumbria\Year 2\Software Practice\Team-Molyneux-3-\Project\Unreal Project\GroupProject\Content\Materials\M_Metal_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.23.08:166][  0]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.23.08:213][  0]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2019.04.08-15.23.08:213][  0]LogMaterial: Warning: G:\Documents\Uni\Northumbria\Year 2\Software Practice\Team-Molyneux-3-\Project\Unreal Project\GroupProject\Content\Materials\M_Metal_Burnished_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.23.08:213][  0]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.23.08:766][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.08-15.23.08:850][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.08-15.23.08:938][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.08-15.23.09:023][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.597ms to complete.
+[2019.04.08-15.23.09:023][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.947
+[2019.04.08-15.23.09:149][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-15.23.09:159][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-15.23.09:170][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-15.23.09:181][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-15.23.09:214][  0]LogCollectionManager: Loaded 0 collections in 0.004679 seconds
+[2019.04.08-15.23.09:268][  0]LogFileCache: Scanning file cache for directory 'G:/Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/Collections/' took 0.01s
+[2019.04.08-15.23.09:268][  0]LogFileCache: Scanning file cache for directory 'G:/Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Developers/Dan/Collections/' took 0.01s
+[2019.04.08-15.23.09:268][  0]LogFileCache: Scanning file cache for directory 'G:/Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Collections/' took 0.01s
+[2019.04.08-15.23.09:268][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.08-15.23.09:286][  0]LogContentBrowser: Native class hierarchy populated in 0.0177 seconds. Added 2581 classes and 608 folders.
+[2019.04.08-15.23.09:300][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.08-15.23.09:423][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.08-15.23.09:462][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.08-15.23.09:565][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.08-15.23.09:567][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.08-15.23.09:574][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.08-15.23.09:692][  0]LogRenderer: Reallocating scene render targets to support 1300x520 Format 10 NumSamples 1 (Frame:1).
+[2019.04.08-15.23.09:778][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.08-15.23.09:947][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.08-15.23.09:948][  0]LogLoad: (Engine Initialization) Total time: 22.69 seconds
+[2019.04.08-15.23.09:948][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.08-15.23.10:000][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.08-15.23.10:013][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.08-15.23.10:096][  1]LogFileCache: Retrieving MD5 hashes for directory 'G:/Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/' took 0.12s
+[2019.04.08-15.23.10:231][  2]LogAssetRegistry: Asset discovery search completed in 13.0694 seconds
+[2019.04.08-15.23.10:233][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.08-15.23.10:233][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2019.04.08-15.23.11:515][  6]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.08-15.23.13:853][ 13]LogSlate: Window 'Message Log' being destroyed
+[2019.04.08-15.23.13:855][ 13]LogSlate: Window 'Message Log' being destroyed
+[2019.04.08-15.23.56:117][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-15.24.09:159][782]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/TopLight9CD5312D4593F7AFF7E26EACFA305BE9.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Materials/TopLight.uasset'
+[2019.04.08-15.24.09:764][782]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/DoorCF677F3A46D32D52B406D9B73BFA6065.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/StarterContent/Architecture/Door.uasset'
+[2019.04.08-15.24.23:371][438]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.08-15.24.27:658][518]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.08-15.24.41:456][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:lockLightPlaying' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:isLocked' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:isOpening' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:Timeline_0' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:Timeline_2' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:Door_Frame' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:Door_Left' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:Door_Right' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:Light' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:Light 2' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:Light 3' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:Light 4' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:Lock_Light' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:PointLight' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:PointLight1' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:Door_Sound' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:Door_Walls' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:Top Light' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:StaticMesh' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:StaticMesh1' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:SM_Cog_Tunnel_Ceiling_Pipes_3x1000' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:StaticMesh2' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:SM_Cog_Tunnel_Ceiling_Pipes_2x1000' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:SM_Cog_Tunnel_Ceiling_Pipes_1x1000' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:StaticMesh3' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:StaticMesh4' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:StaticMesh5' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:StaticMesh6' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:StaticMesh7' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:StaticMesh8' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C:UserConstructionScript.MID' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.SKEL_Door_C' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:lockLightPlaying' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:isLocked' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:isOpening' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:457][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:Timeline_0' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:Timeline_2' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:Door_Frame' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:Door_Left' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:Door_Right' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:Light' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:Light 2' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:Light 3' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:Light 4' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:Lock_Light' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:PointLight' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:PointLight1' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:Door_Sound' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:Door_Walls' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:Top Light' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:StaticMesh' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:StaticMesh1' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:SM_Cog_Tunnel_Ceiling_Pipes_3x1000' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:StaticMesh2' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:SM_Cog_Tunnel_Ceiling_Pipes_2x1000' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:SM_Cog_Tunnel_Ceiling_Pipes_1x1000' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:StaticMesh3' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:StaticMesh4' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:StaticMesh5' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:StaticMesh6' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:StaticMesh7' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:StaticMesh8' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:458][649]LogMetaData: Removing '/Game/Blueprints/Door/Door.Door_C:UserConstructionScript.MID' ref from Metadata '/Game/Blueprints/StarterContent/Architecture/Door.PackageMetaData'
+[2019.04.08-15.24.41:691][649]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/Door77696FEA4E02F5A6B1528F99335FC7AA.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door.uasset'
+[2019.04.08-15.24.41:720][649]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/Door8CF150B14A044554B756AE91A0E10641.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/StarterContent/Architecture/Door.uasset'
+[2019.04.08-15.24.41:773][649]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/Door_Frame_V24E9D3FCB48578DBCA1BBD6BE9BF7B135.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door_Frame_V2.uasset'
+[2019.04.08-15.24.41:819][649]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/Door_Left0D0DA2B04E98D5A6AF61718ECBC5F59C.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door_Left.uasset'
+[2019.04.08-15.24.41:886][649]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/Door_Right021C7A364A6B80C7C26F8E853E586100.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door_Right.uasset'
+[2019.04.08-15.24.41:944][649]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/Door_Walls06513541424238D4DB82CA892155D8C1.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door_Walls.uasset'
+[2019.04.08-15.24.41:995][649]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/Lock_Light4731503C4AC9CD901725BBAF2BBCF2BA.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Lock_Light.uasset'
+[2019.04.08-15.25.00:373][657]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Door/Door.Door
+[2019.04.08-15.25.01:167][657]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2019.04.08-15.25.02:545][657]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.08-15.25.02:723][658]LogSlate: Took 0.000672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.08-15.25.04:109][730]LogSlate: Window 'Door' being destroyed
+[2019.04.08-15.25.05:347][818]LogRenderer: Reallocating scene render targets to support 1300x712 Format 10 NumSamples 1 (Frame:1).
+[2019.04.08-15.25.20:174][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.08-15.25.45:102][944]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.08-15.26.21:676][866]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/M_Metal_Steel.M_Metal_Steel
+[2019.04.08-15.26.21:682][866]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.04.08-15.26.21:683][866]LogMaterial: Warning: /Engine/Transient.M_Metal_Steel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.26.21:683][866]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.26.22:300][866]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.04.08-15.26.22:300][866]LogMaterial: Warning: /Engine/Transient.M_Metal_Steel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.26.22:300][866]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.26.22:306][866]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.04.08-15.26.22:306][866]LogMaterial: Warning: /Engine/Transient.M_Metal_Steel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.26.22:306][866]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.26.22:337][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_79, compiling. 
+[2019.04.08-15.26.22:377][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_78, compiling. 
+[2019.04.08-15.26.22:385][866]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-15.26.22:385][866]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-15.26.22:385][866]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-15.26.22:385][866]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-15.26.22:385][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_81, compiling. 
+[2019.04.08-15.26.22:387][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_82, compiling. 
+[2019.04.08-15.26.22:389][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_83, compiling. 
+[2019.04.08-15.26.22:391][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_27, compiling. 
+[2019.04.08-15.26.22:449][866]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.26.24:462][955]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-15.26.24:483][956]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-15.26.48:321][369]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.04.08-15.26.48:321][369]LogMaterial: Warning: /Engine/Transient.M_Metal_Steel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.26.48:321][369]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.26.48:329][369]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_81, compiling. 
+[2019.04.08-15.26.48:345][369]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-15.26.48:345][369]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-15.26.48:361][369]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.04.08-15.26.48:362][369]LogMaterial: Warning: /Engine/Transient.M_Metal_Steel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.26.48:362][369]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.26.55:235][777]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.04.08-15.26.55:236][777]LogMaterial: Warning: /Engine/Transient.M_Metal_Steel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.26.55:236][777]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.26.55:242][777]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_82, compiling. 
+[2019.04.08-15.26.55:257][777]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-15.26.55:257][777]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-15.26.55:270][777]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.04.08-15.26.55:271][777]LogMaterial: Warning: /Engine/Transient.M_Metal_Steel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.26.55:271][777]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.27.01:978][175]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.04.08-15.27.02:099][175]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.04.08-15.27.02:099][175]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.04.08-15.27.02:099][175]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.04.08-15.27.02:099][175]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.04.08-15.27.02:099][175]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_83, compiling. 
+[2019.04.08-15.27.02:127][175]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.04.08-15.27.02:421][182]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.04.08-15.27.02:465][184]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.04.08-15.27.02:813][199]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.04.08-15.27.02:975][207]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.04.08-15.27.03:183][215]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.04.08-15.27.03:231][217]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.04.08-15.27.03:353][223]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.04.08-15.27.03:380][223]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.04.08-15.27.03:545][229]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.04.08-15.27.03:640][231]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.04.08-15.27.03:667][233]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.04.08-15.27.03:689][234]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.04.08-15.27.03:881][242]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.04.08-15.27.03:881][242]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.04.08-15.27.03:988][245]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.04.08-15.27.04:243][257]LogMaterialEditor: Saving and Compiling material M_Metal_Steel
+[2019.04.08-15.27.05:486][257]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.04.08-15.27.05:486][257]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.04.08-15.27.05:486][257]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.04.08-15.27.05:486][257]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.04.08-15.27.05:486][257]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.04.08-15.27.05:486][257]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.04.08-15.27.05:486][257]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.04.08-15.27.05:486][257]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.04.08-15.27.05:486][257]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.04.08-15.27.05:486][257]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.04.08-15.27.05:486][257]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.04.08-15.27.05:514][257]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.04.08-15.27.05:684][257]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.04.08-15.27.05:708][257]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.04.08-15.27.05:747][257]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.04.08-15.27.05:825][257]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.04.08-15.27.05:855][257]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.04.08-15.27.06:054][257]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.04.08-15.27.06:055][257]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Steel, compiling. 
+[2019.04.08-15.27.12:982][257]LogShaderCompilers: Display: Shaders left to compile 133
+[2019.04.08-15.27.12:982][257]LogShaderCompilers: Display: Shaders left to compile 133
+[2019.04.08-15.27.12:982][257]LogShaderCompilers: Display: Shaders left to compile 132
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 131
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 129
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 127
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 121
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 119
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.04.08-15.27.12:983][257]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.04.08-15.27.12:984][257]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.04.08-15.27.12:984][257]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.04.08-15.27.12:984][257]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.04.08-15.27.12:984][257]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.04.08-15.27.12:984][257]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.04.08-15.27.12:984][257]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.04.08-15.27.12:984][257]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.04.08-15.27.12:984][257]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.04.08-15.27.12:984][257]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.04.08-15.27.12:984][257]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.04.08-15.27.12:984][257]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.04.08-15.27.12:984][257]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.04.08-15.27.12:986][257]TextureStreamingBuild: Display: Compiling optional shaders took 6.940 seconds.
+[2019.04.08-15.27.20:318][257]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-15.27.20:318][257]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-15.27.20:318][257]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-15.27.20:402][257]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/M_Metal_Steel62D0940946E0E17709786492958D49AE.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Materials/M_Metal_Steel.uasset'
+[2019.04.08-15.27.20:426][257]MaterialEditorStats: Base pass shader: 126 instructions
+[2019.04.08-15.27.20:426][257]MaterialEditorStats: Base pass shader with Surface Lightmap: 143 instructions
+[2019.04.08-15.27.20:426][257]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2019.04.08-15.27.20:426][257]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.04.08-15.27.20:426][257]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2019.04.08-15.27.20:426][257]MaterialEditorStats: Texture samplers: 6/16
+[2019.04.08-15.27.20:426][257]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2019.04.08-15.27.20:426][257]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.04.08-15.27.22:595][385]LogMaterialEditor: Saving and Compiling material M_Metal_Steel
+[2019.04.08-15.27.22:647][385]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/M_Metal_Steel2BFA74D9463388E5645F81A47020A133.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Materials/M_Metal_Steel.uasset'
+[2019.04.08-15.27.23:388][430]LogSlate: Window 'M_Metal_Steel' being destroyed
+[2019.04.08-15.27.38:023][360]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/TopLight.TopLight
+[2019.04.08-15.27.38:256][360]LogRenderer: Reallocating scene render targets to support 1336x924 Format 10 NumSamples 1 (Frame:1).
+[2019.04.08-15.27.43:072][749]LogSlate: Window 'TopLight*' being destroyed
+[2019.04.08-15.28.00:499][298]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy TopLight, compiling. 
+[2019.04.08-15.28.01:071][298]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-15.28.01:074][298]TextureStreamingBuild: Display: Compiling optional shaders took 0.578 seconds.
+[2019.04.08-15.28.01:193][298]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/TopLight7EF8D1E3451F33DBC01F1889D390BB13.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Materials/TopLight.uasset'
+[2019.04.08-15.28.05:492][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-15.28.05:676][672]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/TopLight.TopLight
+[2019.04.08-15.28.11:202][203]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy TopLight, compiling. 
+[2019.04.08-15.28.11:489][203]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-15.28.11:491][203]TextureStreamingBuild: Display: Compiling optional shaders took 0.293 seconds.
+[2019.04.08-15.28.11:600][203]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/TopLight2EB22D414AB0B46F574D15B1E8AA1396.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Materials/TopLight.uasset'
+[2019.04.08-15.28.19:469][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-15.28.20:249][909]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/M_Metal_Burnished_Steel.M_Metal_Burnished_Steel
+[2019.04.08-15.28.20:254][909]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2019.04.08-15.28.20:254][909]LogMaterial: Warning: /Engine/Transient.M_Metal_Burnished_Steel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.28.20:254][909]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.28.20:394][909]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2019.04.08-15.28.20:395][909]LogMaterial: Warning: /Engine/Transient.M_Metal_Burnished_Steel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.28.20:395][909]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.28.20:399][909]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2019.04.08-15.28.20:400][909]LogMaterial: Warning: /Engine/Transient.M_Metal_Burnished_Steel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.28.20:400][909]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.28.20:430][909]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_47, compiling. 
+[2019.04.08-15.28.20:436][909]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_46, compiling. 
+[2019.04.08-15.28.20:440][909]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_49, compiling. 
+[2019.04.08-15.28.20:442][909]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-15.28.20:442][909]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-15.28.20:442][909]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-15.28.20:443][909]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-15.28.20:443][909]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2019.04.08-15.28.20:444][909]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling. 
+[2019.04.08-15.28.20:446][909]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_18, compiling. 
+[2019.04.08-15.28.20:521][909]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.28.20:857][917]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-15.28.21:326][941]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-15.28.30:688][525]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2019.04.08-15.28.30:689][525]LogMaterial: Warning: /Engine/Transient.M_Metal_Burnished_Steel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.28.30:689][525]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.28.30:697][525]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_49, compiling. 
+[2019.04.08-15.28.30:712][525]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-15.28.30:712][525]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-15.28.30:726][525]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2019.04.08-15.28.30:727][525]LogMaterial: Warning: /Engine/Transient.M_Metal_Burnished_Steel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.28.30:727][525]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.28.40:848][167]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2019.04.08-15.28.40:849][167]LogMaterial: Warning: /Engine/Transient.M_Metal_Burnished_Steel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.28.40:849][167]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.28.40:860][167]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2019.04.08-15.28.40:874][167]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-15.28.40:874][167]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-15.28.40:887][167]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2019.04.08-15.28.40:888][167]LogMaterial: Warning: /Engine/Transient.M_Metal_Burnished_Steel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.08-15.28.40:888][167]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+[2019.04.08-15.28.46:211][476]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2019.04.08-15.28.46:266][476]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.04.08-15.28.46:266][476]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.04.08-15.28.46:266][476]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.04.08-15.28.46:266][476]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.04.08-15.28.46:266][476]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling. 
+[2019.04.08-15.28.46:294][476]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2019.04.08-15.28.46:600][483]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.04.08-15.28.46:626][484]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.04.08-15.28.46:961][499]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.04.08-15.28.47:051][503]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.04.08-15.28.47:340][516]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.04.08-15.28.47:364][517]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.04.08-15.28.47:478][522]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.04.08-15.28.47:496][523]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.04.08-15.28.47:689][531]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.04.08-15.28.47:740][533]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.04.08-15.28.47:740][533]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.04.08-15.28.47:825][537]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.04.08-15.28.47:986][544]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.04.08-15.28.48:005][545]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.04.08-15.28.48:005][545]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.04.08-15.28.48:437][563]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.04.08-15.28.48:528][567]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.04.08-15.28.48:748][577]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.04.08-15.28.48:909][584]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.04.08-15.28.48:977][588]LogMaterialEditor: Applying material M_Metal_Burnished_Steel
+[2019.04.08-15.28.50:212][588]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.04.08-15.28.50:212][588]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.04.08-15.28.50:212][588]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.04.08-15.28.50:212][588]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.04.08-15.28.50:212][588]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.04.08-15.28.50:212][588]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.04.08-15.28.50:212][588]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.04.08-15.28.50:212][588]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.04.08-15.28.50:212][588]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.04.08-15.28.50:212][588]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.04.08-15.28.50:240][588]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2019.04.08-15.28.50:415][588]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.04.08-15.28.50:415][588]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.04.08-15.28.50:430][588]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.04.08-15.28.50:458][588]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2019.04.08-15.28.50:544][588]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.04.08-15.28.50:559][588]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2019.04.08-15.28.50:745][588]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Burnished_Steel, compiling. 
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 133
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 132
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 131
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 129
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 127
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 121
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 119
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.04.08-15.28.57:546][588]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.04.08-15.28.57:547][588]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.04.08-15.28.57:548][588]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.04.08-15.28.57:548][588]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.04.08-15.28.57:548][588]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.04.08-15.28.57:551][588]TextureStreamingBuild: Display: Compiling optional shaders took 6.814 seconds.
+[2019.04.08-15.28.59:920][690]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-15.29.00:244][704]LogMaterialEditor: Saving and Compiling material M_Metal_Burnished_Steel
+[2019.04.08-15.29.05:288][704]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-15.29.05:288][704]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-15.29.05:351][704]LogSavePackage: Moving '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Saved/M_Metal_Burnished_SteelCF36ABE64F4491844C4F22BB9D019FF1.tmp' to '../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Materials/M_Metal_Burnished_Steel.uasset'
+[2019.04.08-15.29.05:370][704]MaterialEditorStats: Base pass shader: 126 instructions
+[2019.04.08-15.29.05:370][704]MaterialEditorStats: Base pass shader with Surface Lightmap: 143 instructions
+[2019.04.08-15.29.05:370][704]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2019.04.08-15.29.05:370][704]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.04.08-15.29.05:370][704]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2019.04.08-15.29.05:370][704]MaterialEditorStats: Texture samplers: 7/16
+[2019.04.08-15.29.05:370][704]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2019.04.08-15.29.05:370][704]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.04.08-15.29.06:657][780]LogSlate: Window 'M_Metal_Burnished_Steel' being destroyed
+[2019.04.08-15.29.13:957][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-15.29.15:624][415]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Door/Door.Door
+[2019.04.08-15.29.27:869][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.08-15.29.29:647][188]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.08-15.29.52:216][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-15.29.52:854][557]LogSlate: Window 'Door*' being destroyed
+[2019.04.08-15.29.54:563][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-15.29.56:011][868]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.08-15.29.56:044][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.08-15.29.56:044][868]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.08-15.29.56:108][868]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.04.08-15.29.56:416][868]LogPlayLevel: [PlayLevel] Compiling Door before play...
+[2019.04.08-15.29.56:698][868]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2019.04.08-15.29.56:968][868]LogPlayLevel: PlayLevel: Blueprint regeneration took 923 ms (3 blueprints)
+[2019.04.08-15.29.56:979][868]PIE: New page: PIE session: ThirdPersonExampleMap (8 Apr 2019 17:29:56)
+[2019.04.08-15.29.56:979][868]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.08-15.29.57:021][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041522s)
+[2019.04.08-15.29.57:022][868]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.08-15.29.57:022][868]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2019.04.08-15.29.57:022][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.043076s)
+[2019.04.08-15.29.57:121][868]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.08-15.29.57:136][868]LogInit: FAudioDevice initialized.
+[2019.04.08-15.29.57:290][868]LogLinker: Warning: Can't find file '/Game/Blueprints/StarterContent/Architecture/Emission'
+[2019.04.08-15.29.57:290][868]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/StarterContent/Architecture/Emission' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door.uasset.
+[2019.04.08-15.29.57:291][868]LoadErrors: Error: /Game/Blueprints/Door/Door : Can't find file for asset. /Game/Blueprints/StarterContent/Architecture/Emission
+[2019.04.08-15.29.57:317][868]LogLinker: Warning: Can't find file '/Game/Blueprints/StarterContent/Architecture/EBlue'
+[2019.04.08-15.29.57:317][868]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/StarterContent/Architecture/EBlue' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door.uasset.
+[2019.04.08-15.29.57:317][868]LoadErrors: Error: /Game/Blueprints/Door/Door : Can't find file for asset. /Game/Blueprints/StarterContent/Architecture/EBlue
+[2019.04.08-15.29.57:318][868]LogLinker: Warning: Can't find file '/Game/Blueprints/StarterContent/Architecture/EGreen'
+[2019.04.08-15.29.57:318][868]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/StarterContent/Architecture/EGreen' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door.uasset.
+[2019.04.08-15.29.57:318][868]LoadErrors: Error: /Game/Blueprints/Door/Door : Can't find file for asset. /Game/Blueprints/StarterContent/Architecture/EGreen
+[2019.04.08-15.29.57:356][868]LogLinker: Warning: Can't find file '/Game/Blueprints/StarterContent/Architecture/defaultMat'
+[2019.04.08-15.29.57:357][868]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/StarterContent/Architecture/defaultMat' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door_Frame_V2.uasset.
+[2019.04.08-15.29.57:357][868]LoadErrors: Error: /Game/Blueprints/Door/Door_Frame_V2 : Can't find file for asset. /Game/Blueprints/StarterContent/Architecture/defaultMat
+[2019.04.08-15.29.57:357][868]LogLinker: Warning: Can't find file '/Game/Blueprints/StarterContent/Architecture/defaultMat'
+[2019.04.08-15.29.57:357][868]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/StarterContent/Architecture/defaultMat' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door_Frame_V2.uasset.
+[2019.04.08-15.29.57:362][868]LogLinker: Warning: Can't find file '/Game/Blueprints/StarterContent/Architecture/defaultMat'
+[2019.04.08-15.29.57:362][868]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/StarterContent/Architecture/defaultMat' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door_Walls.uasset.
+[2019.04.08-15.29.57:363][868]LoadErrors: Error: /Game/Blueprints/Door/Door_Walls : Can't find file for asset. /Game/Blueprints/StarterContent/Architecture/defaultMat
+[2019.04.08-15.29.57:363][868]LogLinker: Warning: Can't find file '/Game/Blueprints/StarterContent/Architecture/defaultMat'
+[2019.04.08-15.29.57:363][868]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/StarterContent/Architecture/defaultMat' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door_Walls.uasset.
+[2019.04.08-15.29.57:364][868]LogLinker: Warning: Can't find file '/Game/Blueprints/StarterContent/Architecture/defaultMat'
+[2019.04.08-15.29.57:364][868]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/StarterContent/Architecture/defaultMat' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Lock_Light.uasset.
+[2019.04.08-15.29.57:364][868]LoadErrors: Error: /Game/Blueprints/Door/Lock_Light : Can't find file for asset. /Game/Blueprints/StarterContent/Architecture/defaultMat
+[2019.04.08-15.29.57:365][868]LogLinker: Warning: Can't find file '/Game/Blueprints/StarterContent/Architecture/defaultMat'
+[2019.04.08-15.29.57:365][868]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/StarterContent/Architecture/defaultMat' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Lock_Light.uasset.
+[2019.04.08-15.29.57:365][868]LogLinker: Warning: Can't find file '/Game/Blueprints/StarterContent/Architecture/EBlue'
+[2019.04.08-15.29.57:365][868]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/StarterContent/Architecture/EBlue' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door.uasset.
+[2019.04.08-15.29.57:365][868]LogLinker: Warning: Can't find file '/Game/Blueprints/StarterContent/Architecture/EGreen'
+[2019.04.08-15.29.57:365][868]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/StarterContent/Architecture/EGreen' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door.uasset.
+[2019.04.08-15.29.57:366][868]LogLinker: Warning: Can't find file '/Game/Blueprints/StarterContent/Architecture/Emission'
+[2019.04.08-15.29.57:366][868]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/StarterContent/Architecture/Emission' while loading ../../../../../Documents/Uni/Northumbria/Year 2/Software Practice/Team-Molyneux-3-/Project/Unreal Project/GroupProject/Content/Blueprints/Door/Door.uasset.
+[2019.04.08-15.29.57:437][868]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.08-15.29.57:455][868]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.04.08-16.29.57
+[2019.04.08-15.29.57:457][868]LogWorld: Bringing up level for play took: 0.017659
+[2019.04.08-15.29.57:483][868]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.04.08-15.29.57:486][868]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.162
+[2019.04.08-15.29.57:487][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.08-15.30.02:016][271]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.08-15.30.02:016][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-15.30.02:074][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.08-15.30.02:074][271]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.08-15.30.02:160][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-15.30.02:201][272]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.04.08-15.30.03:677][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-15.30.16:094][ 99]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.08-15.30.17:779][ 99]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.136 s
+[2019.04.08-15.30.17:779][ 99]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.08-15.30.17:779][ 99]LogOutputDevice: Error: 
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: Ensure condition failed: Found [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 198]
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: Cannot remove redirection from /Game/Blueprints/StarterContent/Architecture/Door.Door_C, it was not registered
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: Stack: 
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec41a71f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec3ee0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec3efb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec371f3f2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007febc8a2c98 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007febdac5404 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007febdad0c36 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007febd211068 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007febd4c2970 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007febd4bcd7f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec0319c3b UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec01094c5 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec01a1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec0187c7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec017b25c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec7a0d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec7a00270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec7a0f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec79fc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x0000000076f69bbd USER32.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x0000000076f698c2 USER32.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec7a105a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec01af2b2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec01377c7 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007febd561156 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007febdac44f0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007feadfbdc8f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007feadfc8382 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007feadfc35fa UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007feae020103 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007feadfc461f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec0319c3b UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec01094c5 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec01a1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec0187c7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec017b25c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec7a0d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec7a00270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec7a0f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec79fc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x0000000076f69bbd USER32.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x0000000076f698c2 USER32.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000007fec7a10646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000000013f7254e5 UE4Editor.exe!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000000013f735b3c UE4Editor.exe!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000000013f735bba UE4Editor.exe!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000000013f743dac UE4Editor.exe!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x000000013f745aaa UE4Editor.exe!UnknownFunction []
+[2019.04.08-15.30.17:780][ 99]LogOutputDevice: Error: [Callstack] 0x00000000770659cd kernel32.dll!UnknownFunction []
+[2019.04.08-15.30.17:781][ 99]LogOutputDevice: Error: [Callstack] 0x00000000771c383d ntdll.dll!UnknownFunction []
+[2019.04.08-15.30.17:781][ 99]LogOutputDevice: Error: 
+[2019.04.08-15.30.17:783][ 99]LogStats:                SubmitErrorReport -  0.000 s
