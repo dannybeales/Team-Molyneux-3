@@ -1,0 +1,682 @@
+﻿Log file open, 04/18/19 10:00:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GroupProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.147973
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.234s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.032s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.18-09.00.28:189][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.18-09.00.28:189][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.18-09.00.28:267][  0]LogHAL: Display: Platform has ~ 32 GB [34262532096 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.18-09.00.28:267][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.04.18-09.00.28:267][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.18-09.00.28:274][  0]LogInit: Computer: C15003237
+[2019.04.18-09.00.28:274][  0]LogInit: User: CSG17007563
+[2019.04.18-09.00.28:274][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.04.18-09.00.28:274][  0]LogInit: High frequency timer resolution =3.410076 MHz
+[2019.04.18-09.00.28:274][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.04.18-09.00.28:274][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.18-09.00.28:274][  0]LogMemory: Process Physical Memory: 105.27 MB used, 105.27 MB peak
+[2019.04.18-09.00.28:274][  0]LogMemory: Process Virtual Memory: 99.84 MB used, 99.84 MB peak
+[2019.04.18-09.00.28:274][  0]LogMemory: Physical Memory: 5635.30 MB used,  27040.00 MB free, 32675.30 MB total
+[2019.04.18-09.00.28:274][  0]LogMemory: Virtual Memory: 546.72 MB used,  27040.00 MB free, 134217728.00 MB total
+[2019.04.18-09.00.28:519][  0]LogInit: Using OS detected language (en-US).
+[2019.04.18-09.00.28:520][  0]LogInit: Using OS detected locale (en-GB).
+[2019.04.18-09.00.28:522][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.18-09.00.29:002][  0]LogStreaming: Display: Took  0.481s to InitEngineTextLocalization.
+[2019.04.18-09.00.29:003][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.18-09.00.29:114][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.18-09.00.29:114][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.18-09.00.31:028][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.18-09.00.31:028][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.18-09.00.31:087][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.04.18-09.00.31:087][  0]LogD3D11RHI:       4043/0/16337 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.18-09.00.31:089][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.18-09.00.31:089][  0]LogD3D11RHI:       0/0/16337 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.18-09.00.31:089][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.18-09.00.31:096][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.18-09.00.31:096][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.18-09.00.31:096][  0]LogWindows: EnumDisplayDevices:
+[2019.04.18-09.00.31:097][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.04.18-09.00.31:097][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.04.18-09.00.31:097][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.04.18-09.00.31:097][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.04.18-09.00.31:097][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.04.18-09.00.31:097][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.04.18-09.00.31:097][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2019.04.18-09.00.31:097][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2019.04.18-09.00.31:097][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.04.18-09.00.31:134][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.18-09.00.31:166][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.18-09.00.31:170][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Intermediate/Shaders/WorkingDirectory/12428/).
+[2019.04.18-09.00.31:170][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/CSG17007563/AppData/Local/Temp/UnrealShaderWorkingDir/CDD33810413C03CD714EC5B3DD6FF0AE/'.
+[2019.04.18-09.00.31:498][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.18-09.00.31:539][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.18-09.00.31:569][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.18-09.00.31:601][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.18-09.00.31:630][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.18-09.00.31:652][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.18-09.00.31:675][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.18-09.00.31:713][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.18-09.00.31:722][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.18-09.00.31:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.18-09.00.31:844][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.18-09.00.31:936][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.18-09.00.31:936][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.18-09.00.31:974][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.18-09.00.31:974][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.18-09.00.31:994][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.18-09.00.32:015][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.18-09.00.32:035][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.18-09.00.32:072][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.18-09.00.32:084][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.18-09.00.32:085][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.18-09.00.32:255][  0]LogXGEController: Cleaning working directory: C:/Users/CSG17007563/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.18-09.00.32:255][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.18-09.00.32:255][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.18-09.00.32:255][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.18-09.00.33:930][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.18-09.00.34:469][  0]LogDerivedDataCache: Loaded boot cache 0.54s 71MB C:/Users/CSG17007563/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.18-09.00.34:469][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/CSG17007563/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.04.18-09.00.34:470][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.18-09.00.34:470][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.18-09.00.34:471][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.18-09.00.34:471][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.18-09.00.34:497][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.18-09.00.34:510][  0]LogDerivedDataCache: Using Local data cache path C:/Users/CSG17007563/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.18-09.00.34:510][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.18-09.00.34:510][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.18-09.00.34:529][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.18-09.00.34:538][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.18-09.00.34:558][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.18-09.00.34:836][  0]LogAssetRegistry: FAssetRegistry took 0.0327 seconds to start up
+[2019.04.18-09.00.35:365][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.18-09.00.35:669][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.18-09.00.35:689][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.18-09.00.35:690][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.18-09.00.35:690][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.18-09.00.35:690][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.18-09.00.35:743][  0]LogNetVersion: GroupProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 857663312)
+[2019.04.18-09.00.40:427][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 3.516926 seconds
+[2019.04.18-09.00.40:441][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.04.18-09.00.40:441][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.04.18-09.00.40:441][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.18-09.00.44:034][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.18-09.00.44:051][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.18-09.00.44:051][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.18-09.00.44:515][  0]SourceControl: Source control is disabled
+[2019.04.18-09.00.44:515][  0]SourceControl: Source control is disabled
+[2019.04.18-09.00.44:526][  0]SourceControl: Source control is disabled
+[2019.04.18-09.00.44:531][  0]SourceControl: Source control is disabled
+[2019.04.18-09.00.45:023][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.18-09.00.45:084][  0]LogOcInput: OculusInput pre-init called
+[2019.04.18-09.00.45:209][  0]LogEngine: Initializing Engine...
+[2019.04.18-09.00.45:211][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.18-09.00.45:223][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.18-09.00.45:223][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.18-09.00.45:225][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.002 s
+[2019.04.18-09.00.45:226][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.18-09.00.45:683][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.18-09.00.45:733][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.18-09.00.45:750][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.18-09.00.45:822][  0]LogInit: FAudioDevice initialized.
+[2019.04.18-09.00.45:823][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.18-09.00.45:909][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/CSG17007563/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.18-09.00.45:939][  0]LogInit: Texture streaming: Enabled
+[2019.04.18-09.00.45:965][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.18-09.00.45:989][  0]LogInit: Transaction tracking system initialized
+[2019.04.18-09.00.46:046][  0]BlueprintLog: New page: Editor Load
+[2019.04.18-09.00.46:380][  0]LocalizationService: Localization service is disabled
+[2019.04.18-09.00.47:010][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.18-09.00.47:010][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.18-09.00.47:010][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.18-09.00.47:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.18-09.00.47:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.18-09.00.47:011][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.04.18-09.00.47:011][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.18-09.00.47:358][  0]SourceControl: Source control is disabled
+[2019.04.18-09.00.47:359][  0]Cmd: MAP LOAD FILE="Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.18-09.00.47:399][  0]LightingResults: New page: Lighting Build
+[2019.04.18-09.00.47:408][  0]MapCheck: New page: Map Check
+[2019.04.18-09.00.47:408][  0]LightingResults: New page: Lighting Build
+[2019.04.18-09.00.47:667][  0]LogFileCache: Scanning file cache for directory 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/' took 0.51s
+[2019.04.18-09.00.58:017][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.18-09.00.58:267][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.18-09.00.58:322][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.18-09.00.59:036][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 713.217ms to complete.
+[2019.04.18-09.00.59:038][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 11.679
+[2019.04.18-09.00.59:240][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.18-09.00.59:248][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.18-09.00.59:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.18-09.00.59:263][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.18-09.00.59:289][  0]LogCollectionManager: Loaded 0 collections in 0.006614 seconds
+[2019.04.18-09.00.59:387][  0]LogFileCache: Scanning file cache for directory 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/Collections/' took 0.02s
+[2019.04.18-09.00.59:387][  0]LogFileCache: Scanning file cache for directory 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Developers/CSG17007563/Collections/' took 0.01s
+[2019.04.18-09.00.59:387][  0]LogFileCache: Scanning file cache for directory 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Collections/' took 0.01s
+[2019.04.18-09.00.59:387][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.18-09.00.59:412][  0]LogContentBrowser: Native class hierarchy populated in 0.0227 seconds. Added 2581 classes and 608 folders.
+[2019.04.18-09.00.59:434][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.04.18-09.00.59:835][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.04.18-09.00.59:855][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2019.04.18-09.01.00:076][  0]LogSlate: Took 0.005900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.18-09.01.00:084][  0]LogSlate: Took 0.005448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.18-09.01.00:097][  0]LogSlate: Took 0.005019 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.18-09.01.00:274][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.04.18-09.01.00:482][  0]LogSlate: Took 0.006322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.18-09.01.00:601][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.04.18-09.01.00:601][  0]LogLoad: (Engine Initialization) Total time: 40.70 seconds
+[2019.04.18-09.01.00:601][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.18-09.01.00:676][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.18-09.01.00:677][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/', and we were unable to create a new request.
+[2019.04.18-09.01.00:677][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.18-09.01.00:677][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Developers/CSG17007563/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.18-09.01.00:677][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.18-09.01.00:682][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.18-09.01.00:745][  1]LogAssetRegistry: Asset discovery search completed in 25.9314 seconds
+[2019.04.18-09.01.00:747][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.18-09.01.00:747][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2019.04.18-09.01.00:747][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Developers/CSG17007563/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.18-09.01.00:748][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Developers/CSG17007563/Collections/', and we were unable to create a new request.
+[2019.04.18-09.01.00:748][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.18-09.01.00:749][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/Collections/', and we were unable to create a new request.
+[2019.04.18-09.01.00:749][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.18-09.01.00:750][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Collections/', and we were unable to create a new request.
+[2019.04.18-09.01.05:732][276]LogFileCache: Retrieving MD5 hashes for directory 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/' took 5.11s
+[2019.04.18-09.01.08:105][402]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.04.18-09.01.15:436][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.18-09.01.15:564][653]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.18-09.01.15:569][653]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LevelChanger.LevelChanger
+[2019.04.18-09.01.16:338][653]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2019.04.18-09.01.17:398][653]LogSlate: Took 0.008690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.18-09.01.25:570][ 91]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.04.18-09.01.26:526][ 92]LogSlate: Took 0.008223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.18-09.01.32:532][352]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2019.04.18-09.01.40:171][148]LogEditorTransaction: Undo Move Anchor
+[2019.04.18-09.01.47:918][966]LogSlate: Took 0.035096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.04.18-09.02.16:387][ 42]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.02.16:923][ 84]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.02.38:909][518]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.02.39:230][540]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.02.39:693][582]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.03.21:339][232]BlueprintLog: New page: Compile PauseMenu
+[2019.04.18-09.03.22:573][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/UI/PauseMenu.uasset" SILENT=true
+[2019.04.18-09.03.23:789][324]LogSavePackage: Moving 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/PauseMenu10DBCC7A424CB018431D0DAB566E29B9.tmp' to 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/UI/PauseMenu.uasset'
+[2019.04.18-09.03.57:365][ 35]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.03.57:752][ 68]LogEditorTransaction: Undo Edit Left
+[2019.04.18-09.03.58:130][105]LogEditorTransaction: Undo Edit Left
+[2019.04.18-09.03.58:502][140]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.03.58:906][174]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.03.59:334][212]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.03.59:829][259]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.04.00:258][300]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.04.26:371][145]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.18-09.04.44:128][168]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.05.33:870][651]BlueprintLog: New page: Compile PauseMenu
+[2019.04.18-09.05.33:914][651]LogBlueprint: Warning: [Compiler PauseMenu] Could not find a variable named "PauseScreenRoot" in 'PauseMenu_C'.
+Make sure 'PauseMenu_C' has been compiled for  Get PauseScreenRoot
+[2019.04.18-09.05.33:914][651]LogBlueprint: Warning: [Compiler PauseMenu] Could not find a variable named "PauseScreenRoot" in 'PauseMenu_C'.
+Make sure 'PauseMenu_C' has been compiled for  Get PauseScreenRoot
+[2019.04.18-09.05.33:914][651]LogBlueprint: Error: [Compiler PauseMenu] The property associated with  Pause Screen Root  could not be found in '/Game/UI/PauseMenu.PauseMenu_C'
+[2019.04.18-09.05.33:915][651]LogBlueprint: Error: [Compiler PauseMenu] The property associated with  Pause Screen Root  could not be found in '/Game/UI/PauseMenu.PauseMenu_C'
+[2019.04.18-09.05.34:052][651]LogBlueprint: Warning: [Compiler PauseMenu] [0314.15] Compile of PauseMenu failed. 2 Fatal Issue(s) 2 Warning(s) [in 182 ms] (/Game/UI/PauseMenu.PauseMenu)
+[2019.04.18-09.06.02:450][876]LogEditorTransaction: Undo Remove Widget
+[2019.04.18-09.06.02:678][897]LogEditorTransaction: Undo Rename Widget
+[2019.04.18-09.06.02:883][918]LogEditorTransaction: Undo Resize Widget
+[2019.04.18-09.06.03:996][ 49]LogEditorTransaction: Undo Resize Widget
+[2019.04.18-09.06.04:264][ 78]LogEditorTransaction: Undo Resize Widget
+[2019.04.18-09.06.04:506][105]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.06.04:717][129]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.06.04:928][153]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.06.05:130][175]LogEditorTransaction: Undo Resize Widget
+[2019.04.18-09.06.05:328][197]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.06.05:544][221]LogEditorTransaction: Undo Resize Widget
+[2019.04.18-09.06.05:751][244]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.06.05:963][268]LogEditorTransaction: Undo Resize Widget
+[2019.04.18-09.06.06:184][292]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.06.06:429][320]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.06.06:693][350]LogEditorTransaction: Undo Edit Image
+[2019.04.18-09.06.07:099][397]LogEditorTransaction: Undo Resize Widget
+[2019.04.18-09.06.07:421][434]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.06.07:760][473]LogEditorTransaction: Undo Add Widget
+[2019.04.18-09.06.08:218][526]LogEditorTransaction: Undo Remove Widget
+[2019.04.18-09.06.08:667][577]LogEditorTransaction: Undo Reset to Default
+[2019.04.18-09.06.52:907][560]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/HUD.HUD:WidgetTree.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/PauseMenu.PauseMenu:WidgetTree.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/GameOverScreen.SKEL_GameOverScreen_C:WidgetTree.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/HUD.SKEL_HUD_C:WidgetTree.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_46.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/GameOverScreen.GameOverScreen_C:WidgetTree.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/HUD.HUD_C:WidgetTree.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_75.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_74.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_43.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_42.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_41.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_73.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_72.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_4.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_71.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_6.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_70.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_69.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_68.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_10.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_67.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_66.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_65.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_64.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_62.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_61.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_19.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_60.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_59.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_22.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_23.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_PauseMenu_C_25:WidgetTree.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_58.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_57.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:549][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_54.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_48.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_49.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_50.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_55.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_56.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_53.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_PauseMenu_C_55:WidgetTree.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/PauseMenu.PauseMenu_C:WidgetTree.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_76.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_77.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_78.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_79.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_80.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_81.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_82.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_83.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_84.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_85.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/GameOverScreen.GameOverScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:PauseMenu_C_86.WidgetTree_0.CanvasPanel_0
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_62.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_61.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_60.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_59.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_57.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Game/UI/PauseMenu.PauseMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_46.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_54.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_48.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_49.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_50.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_55.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_56.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_53.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Game/UI/PauseMenu.PauseMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_64.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_65.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_66.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_67.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_68.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_69.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_70.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_71.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_72.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_73.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_74.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_75.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_79.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9 or CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_83.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9
+[2019.04.18-09.07.12:550][809]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Engine/Transient.World_7:PauseMenu_C_63.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_9) from referencer (Image /Engine/UMG/Editor/Transient.PauseCscreen).  Import failed...
+[2019.04.18-09.07.12:550][809]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_9"''
+[2019.04.18-09.07.15:169][809]LogSlate: Window 'Message' being destroyed
+[2019.04.18-09.07.32:584][816]BlueprintLog: New page: Compile PauseMenu
+[2019.04.18-09.07.42:640][867]LogEditorTransaction: Undo Move Widget
+[2019.04.18-09.08.23:089][356]BlueprintLog: New page: Compile PauseMenu
+[2019.04.18-09.08.23:866][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/UI/PauseMenu.uasset" SILENT=true
+[2019.04.18-09.08.25:023][431]LogSavePackage: Moving 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/PauseMenu2BE7DEBE434E3F0503ED33974C264098.tmp' to 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/UI/PauseMenu.uasset'
+[2019.04.18-09.08.49:189][894]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.18-09.08.49:246][894]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.08.49:246][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.18-09.08.49:261][894]PIE: New page: PIE session: ThirdPersonExampleMap (18 Apr 2019 11:08:49)
+[2019.04.18-09.08.49:262][894]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.18-09.08.49:363][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101602s)
+[2019.04.18-09.08.49:364][894]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.18-09.08.49:365][894]LogPlayLevel: PIE: World Init took: (0.001646s)
+[2019.04.18-09.08.49:365][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.103619s)
+[2019.04.18-09.08.49:451][894]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.18-09.08.49:463][894]LogInit: FAudioDevice initialized.
+[2019.04.18-09.08.49:548][894]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.18-09.08.49:575][894]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.04.18-10.08.49
+[2019.04.18-09.08.49:577][894]LogWorld: Bringing up level for play took: 0.028245
+[2019.04.18-09.08.49:597][894]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2019.04.18-09.08.49:606][894]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.494
+[2019.04.18-09.08.49:606][894]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.08.55:486][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.18-09.09.01:909][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.18-09.09.02:420][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.09.02:421][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.18-09.09.02:482][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.18-09.09.02:482][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.09.02:540][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.18-09.09.02:581][768]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.04.18-09.09.03:361][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.18-09.09.15:425][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/UI/PauseMenu.uasset" SILENT=true
+[2019.04.18-09.09.16:685][124]LogSavePackage: Moving 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/PauseMenu82E393A94B107464BD71A7844F820668.tmp' to 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/UI/PauseMenu.uasset'
+[2019.04.18-09.09.18:019][208]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.18-09.09.18:079][208]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.09.18:080][208]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.18-09.09.18:124][208]LogPlayLevel: [PlayLevel] Compiling PauseMenu before play...
+[2019.04.18-09.09.18:420][208]LogPlayLevel: PlayLevel: Blueprint regeneration took 340 ms (1 blueprints)
+[2019.04.18-09.09.18:421][208]PIE: New page: PIE session: ThirdPersonExampleMap (18 Apr 2019 11:09:18)
+[2019.04.18-09.09.18:421][208]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.18-09.09.18:465][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044258s)
+[2019.04.18-09.09.18:466][208]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.18-09.09.18:466][208]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2019.04.18-09.09.18:466][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.045267s)
+[2019.04.18-09.09.18:517][208]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.18-09.09.18:525][208]LogInit: FAudioDevice initialized.
+[2019.04.18-09.09.18:559][208]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.18-09.09.18:583][208]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.04.18-10.09.18
+[2019.04.18-09.09.18:585][208]LogWorld: Bringing up level for play took: 0.024828
+[2019.04.18-09.09.18:601][208]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.489
+[2019.04.18-09.09.18:601][208]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.09.22:651][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.18-09.09.24:048][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.09.24:049][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.18-09.09.24:108][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.18-09.09.24:109][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.09.24:161][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.18-09.09.24:184][556]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.04.18-09.09.24:540][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.18-09.09.36:829][878]BlueprintLog: New page: Compile PauseMenu
+[2019.04.18-09.09.59:500][369]BlueprintLog: New page: Compile PauseMenu
+[2019.04.18-09.10.00:449][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/UI/PauseMenu.uasset" SILENT=true
+[2019.04.18-09.10.01:579][463]LogSavePackage: Moving 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/PauseMenuF202862F418F4ECF8CD96FA5138698DB.tmp' to 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/UI/PauseMenu.uasset'
+[2019.04.18-09.10.05:745][886]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.18-09.10.05:798][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.10.05:798][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.18-09.10.05:798][886]PIE: New page: PIE session: ThirdPersonExampleMap (18 Apr 2019 11:10:05)
+[2019.04.18-09.10.05:798][886]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.18-09.10.05:837][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039145s)
+[2019.04.18-09.10.05:838][886]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.18-09.10.05:838][886]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2019.04.18-09.10.05:838][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.040108s)
+[2019.04.18-09.10.05:894][886]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.18-09.10.05:901][886]LogInit: FAudioDevice initialized.
+[2019.04.18-09.10.05:932][886]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.18-09.10.05:953][886]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.04.18-10.10.05
+[2019.04.18-09.10.05:954][886]LogWorld: Bringing up level for play took: 0.021735
+[2019.04.18-09.10.05:971][886]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.859
+[2019.04.18-09.10.05:971][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.10.08:856][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.18-09.10.15:867][528]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Oxygen depetion disabled
+[2019.04.18-09.10.17:147][612]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Oxygen depetion enabled
+[2019.04.18-09.10.19:382][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.10.19:382][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.18-09.10.19:444][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.18-09.10.19:445][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.10.19:493][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.18-09.10.19:533][758]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.04.18-09.10.21:500][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.18-09.10.21:639][883]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HUD.HUD
+[2019.04.18-09.10.39:018][812]BlueprintLog: New page: Compile HUD
+[2019.04.18-09.10.39:851][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/UI/HUD.uasset" SILENT=true
+[2019.04.18-09.10.40:316][892]LogSavePackage: Moving 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/HUD4A5B789A4D0F5FFFCD0C3EABDF208A98.tmp' to 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/UI/HUD.uasset'
+[2019.04.18-09.12.07:951][140]BlueprintLog: New page: Compile LevelChanger
+[2019.04.18-09.12.07:956][140]LogBlueprint: Error: [Compiler LevelChanger] This blueprint (self) is not a ThirdPersonCharacter_C, therefore ' Target ' must have a connection.
+[2019.04.18-09.12.07:956][140]LogBlueprint: Error: [Compiler LevelChanger] Variable node  Set OxygenRate  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.04.18-09.12.08:138][140]LogBlueprint: Warning: [Compiler LevelChanger] [0708.23] Compile of LevelChanger failed. 2 Fatal Issue(s) 0 Warning(s) [in 187 ms] (/Game/LevelChanger.LevelChanger)
+[2019.04.18-09.12.40:964][ 10]BlueprintLog: New page: Compile LevelChanger
+[2019.04.18-09.13.24:729][185]BlueprintLog: New page: Compile LevelChanger
+[2019.04.18-09.13.25:497][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelChanger" FILE="Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/LevelChanger.uasset" SILENT=true
+[2019.04.18-09.13.25:883][252]LogSavePackage: Moving 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/LevelChanger82F16A3444CC9ED0782397ACD5C3BCD0.tmp' to 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/LevelChanger.uasset'
+[2019.04.18-09.13.36:230][468]BlueprintLog: New page: Compile LevelChanger
+[2019.04.18-09.13.37:215][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelChanger" FILE="Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/LevelChanger.uasset" SILENT=true
+[2019.04.18-09.13.37:596][562]LogSavePackage: Moving 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/LevelChanger3326AC5A4477B5F0EF0536A57FB90265.tmp' to 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/LevelChanger.uasset'
+[2019.04.18-09.13.52:670][347]BlueprintLog: New page: Compile LevelChanger
+[2019.04.18-09.13.53:346][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelChanger" FILE="Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/LevelChanger.uasset" SILENT=true
+[2019.04.18-09.13.53:695][404]LogSavePackage: Moving 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/LevelChangerCFC1C5D4462668F024891F9B2D36C29B.tmp' to 'Z:/Assignment Repository/,M/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/LevelChanger.uasset'
+[2019.04.18-09.14.00:204][788]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.04.18-09.14.02:386][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.18-09.14.22:675][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.18-09.14.36:119][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.18-09.14.36:170][864]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.18-09.14.36:220][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.14.36:221][864]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.18-09.14.36:494][864]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.04.18-09.14.36:807][864]LogPlayLevel: PlayLevel: Blueprint regeneration took 586 ms (1 blueprints)
+[2019.04.18-09.14.36:807][864]PIE: New page: PIE session: ThirdPersonExampleMap (18 Apr 2019 11:14:36)
+[2019.04.18-09.14.36:808][864]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.18-09.14.36:852][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044921s)
+[2019.04.18-09.14.36:853][864]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.18-09.14.36:854][864]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2019.04.18-09.14.36:854][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.046105s)
+[2019.04.18-09.14.36:902][864]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.18-09.14.36:912][864]LogInit: FAudioDevice initialized.
+[2019.04.18-09.14.36:944][864]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.18-09.14.36:968][864]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.04.18-10.14.36
+[2019.04.18-09.14.36:970][864]LogWorld: Bringing up level for play took: 0.025248
+[2019.04.18-09.14.36:987][864]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.129
+[2019.04.18-09.14.36:987][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.14.39:500][  5]LogPackageName: SearchForPackageOnDisk took   0.334s, but failed to resolve None.umap.
+[2019.04.18-09.14.39:500][  5]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	LevelChanger_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LevelChanger_2
+	Function /Game/LevelChanger.LevelChanger_C:ExecuteUbergraph_LevelChanger:004F
+[2019.04.18-09.14.39:500][  5]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerCharacter". Blueprint:  LevelChanger Function:  Execute Ubergraph Level Changer Graph:  EventGraph Node:  Set OxygenRate
+[2019.04.18-09.14.39:500][  5]LogScript: Warning: Attempted to assign to None
+	LevelChanger_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LevelChanger_2
+	Function /Game/LevelChanger.LevelChanger_C:ExecuteUbergraph_LevelChanger:0064
+[2019.04.18-09.14.39:501][  5]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  LevelChanger Function:  Execute Ubergraph Level Changer Graph:  EventGraph Node:  Set OxygenRate
+[2019.04.18-09.14.39:607][  6]LogPackageName: SearchForPackageOnDisk took   0.099s, but failed to resolve None.umap.
+[2019.04.18-09.14.39:607][  6]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.04.18-09.14.39:607][  6]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.04.18-09.14.39:607][  6]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2019.04.18-09.14.39:607][  6]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2019.04.18-09.14.39:607][  6]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.04.18-09.14.39:607][  6]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2019.04.18-09.14.39:607][  6]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2019.04.18-09.14.39:611][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.14.39:611][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.18-09.14.39:669][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.18-09.14.39:669][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.18-09.14.39:717][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.18-09.14.39:803][  7]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.18-09.14.41:931][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.18-09.15.39:149][724]LogUObjectArray: Warning: Empty slot
+[2019.04.18-09.15.39:250][724]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.101 s
+[2019.04.18-09.15.39:250][724]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.18-09.15.39:250][724]LogOutputDevice: Error: 
+[2019.04.18-09.15.39:250][724]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.04.18-09.15.39:250][724]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.04.18-09.15.39:250][724]LogOutputDevice: Error: Stack: 
+[2019.04.18-09.15.39:250][724]LogOutputDevice: Error: [Callstack] 0x00007ffeb3cb71f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.18-09.15.39:250][724]LogOutputDevice: Error: [Callstack] 0x00007ffeb39f0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.18-09.15.39:250][724]LogOutputDevice: Error: [Callstack] 0x00007ffeb3a0b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.18-09.15.39:250][724]LogOutputDevice: Error: [Callstack] 0x00007ffe972311db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.18-09.15.39:250][724]LogOutputDevice: Error: [Callstack] 0x00007ffe9724060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.18-09.15.39:250][724]LogOutputDevice: Error: [Callstack] 0x00007ffea8c3da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.04.18-09.15.39:250][724]LogOutputDevice: Error: [Callstack] 0x00007ffea7f8ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffea7f4f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffeb0028204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffeb026e933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffeb008281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffeb0058190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffeb004b073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffed1b1d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffed1b10270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffed1b1f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffed1b0c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffeeabe1c24 USER32.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffeeabe156c USER32.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffed1b20646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ff7877554e5 UE4Editor.exe!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ff787765b3c UE4Editor.exe!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ff787765bba UE4Editor.exe!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ff787773dac UE4Editor.exe!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ff787775aaa UE4Editor.exe!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffee8bd8364 KERNEL32.DLL!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: [Callstack] 0x00007ffeeb415e91 ntdll.dll!UnknownFunction []
+[2019.04.18-09.15.39:251][724]LogOutputDevice: Error: 
+[2019.04.18-09.15.39:255][724]LogStats:                SubmitErrorReport -  0.000 s
