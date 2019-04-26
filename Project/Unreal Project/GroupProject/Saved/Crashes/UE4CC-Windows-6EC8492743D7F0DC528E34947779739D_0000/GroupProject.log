@@ -1,0 +1,671 @@
+﻿Log file open, 04/26/19 10:25:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GroupProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.415199
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.841s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.038s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.26-09.25.18:054][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.26-09.25.18:054][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.26-09.25.18:118][  0]LogHAL: Display: Platform has ~ 32 GB [34262532096 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.26-09.25.18:118][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.04.26-09.25.18:118][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.26-09.25.18:118][  0]LogInit: Computer: C15003237
+[2019.04.26-09.25.18:118][  0]LogInit: User: CSG17007563
+[2019.04.26-09.25.18:118][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.04.26-09.25.18:118][  0]LogInit: High frequency timer resolution =3.410074 MHz
+[2019.04.26-09.25.18:118][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.04.26-09.25.18:118][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.26-09.25.18:118][  0]LogMemory: Process Physical Memory: 105.25 MB used, 105.25 MB peak
+[2019.04.26-09.25.18:118][  0]LogMemory: Process Virtual Memory: 100.01 MB used, 100.01 MB peak
+[2019.04.26-09.25.18:118][  0]LogMemory: Physical Memory: 4813.11 MB used,  27862.19 MB free, 32675.30 MB total
+[2019.04.26-09.25.18:118][  0]LogMemory: Virtual Memory: 546.72 MB used,  27862.19 MB free, 134217728.00 MB total
+[2019.04.26-09.25.18:143][  0]LogInit: Using OS detected language (en-US).
+[2019.04.26-09.25.18:143][  0]LogInit: Using OS detected locale (en-GB).
+[2019.04.26-09.25.18:144][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.26-09.25.18:512][  0]LogStreaming: Display: Took  0.369s to InitEngineTextLocalization.
+[2019.04.26-09.25.18:512][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.26-09.25.18:545][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.26-09.25.18:545][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.26-09.25.18:715][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.26-09.25.18:715][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.26-09.25.18:772][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.04.26-09.25.18:772][  0]LogD3D11RHI:       4043/0/16337 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.26-09.25.18:774][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.26-09.25.18:774][  0]LogD3D11RHI:       0/0/16337 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.26-09.25.18:774][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.26-09.25.18:778][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.26-09.25.18:778][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.26-09.25.18:778][  0]LogWindows: EnumDisplayDevices:
+[2019.04.26-09.25.18:778][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.04.26-09.25.18:778][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.04.26-09.25.18:779][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.04.26-09.25.18:779][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.04.26-09.25.18:779][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.04.26-09.25.18:779][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.04.26-09.25.18:779][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2019.04.26-09.25.18:779][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2019.04.26-09.25.18:779][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.04.26-09.25.18:813][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.26-09.25.18:830][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.26-09.25.18:831][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Intermediate/Shaders/WorkingDirectory/7684/).
+[2019.04.26-09.25.18:831][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/CSG17007563/AppData/Local/Temp/UnrealShaderWorkingDir/0094355849CEE3FE996A25A95CD5B240/'.
+[2019.04.26-09.25.18:997][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.26-09.25.19:015][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.26-09.25.19:034][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.26-09.25.19:052][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.26-09.25.19:071][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.26-09.25.19:089][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.26-09.25.19:112][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.26-09.25.19:130][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.26-09.25.19:137][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-09.25.19:236][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.26-09.25.19:317][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.26-09.25.19:317][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.26-09.25.19:352][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.26-09.25.19:352][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.26-09.25.19:371][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.26-09.25.19:389][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.26-09.25.19:411][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.26-09.25.19:436][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.26-09.25.19:447][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.26-09.25.19:447][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.26-09.25.19:499][  0]LogXGEController: Cleaning working directory: C:/Users/CSG17007563/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.26-09.25.19:499][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.26-09.25.19:499][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.26-09.25.19:499][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.26-09.25.20:291][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.26-09.25.20:353][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/CSG17007563/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.26-09.25.20:354][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/CSG17007563/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.04.26-09.25.20:355][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.26-09.25.20:355][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.26-09.25.20:356][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.26-09.25.20:356][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.26-09.25.20:371][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.26-09.25.20:383][  0]LogDerivedDataCache: Using Local data cache path C:/Users/CSG17007563/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.26-09.25.20:383][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.26-09.25.20:383][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.26-09.25.20:401][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.26-09.25.20:402][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.26-09.25.20:403][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.26-09.25.20:480][  0]LogAssetRegistry: FAssetRegistry took 0.0334 seconds to start up
+[2019.04.26-09.25.20:917][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.26-09.25.21:075][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.26-09.25.21:078][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.26-09.25.21:078][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.26-09.25.21:078][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.26-09.25.21:078][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.26-09.25.21:102][  0]LogNetVersion: GroupProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 857663312)
+[2019.04.26-09.25.23:582][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 1.922160 seconds
+[2019.04.26-09.25.23:592][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.04.26-09.25.23:592][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.04.26-09.25.23:592][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.26-09.25.24:562][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.26-09.25.24:577][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.26-09.25.24:578][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.26-09.25.24:789][  0]SourceControl: Source control is disabled
+[2019.04.26-09.25.24:789][  0]SourceControl: Source control is disabled
+[2019.04.26-09.25.24:790][  0]SourceControl: Source control is disabled
+[2019.04.26-09.25.24:791][  0]SourceControl: Source control is disabled
+[2019.04.26-09.25.25:046][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.26-09.25.25:105][  0]LogOcInput: OculusInput pre-init called
+[2019.04.26-09.25.25:178][  0]LogEngine: Initializing Engine...
+[2019.04.26-09.25.25:178][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.26-09.25.25:182][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.26-09.25.25:182][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.26-09.25.25:183][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.04.26-09.25.25:183][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.26-09.25.25:424][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.26-09.25.25:435][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.26-09.25.25:451][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-09.25.25:471][  0]LogInit: FAudioDevice initialized.
+[2019.04.26-09.25.25:472][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.26-09.25.25:549][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/CSG17007563/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.26-09.25.25:581][  0]LogInit: Texture streaming: Enabled
+[2019.04.26-09.25.25:599][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.26-09.25.25:608][  0]LogInit: Transaction tracking system initialized
+[2019.04.26-09.25.25:629][  0]BlueprintLog: New page: Editor Load
+[2019.04.26-09.25.25:727][  0]LocalizationService: Localization service is disabled
+[2019.04.26-09.25.25:987][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.26-09.25.25:987][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.26-09.25.25:987][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.26-09.25.25:987][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.26-09.25.25:987][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.26-09.25.25:987][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.26-09.25.25:987][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.26-09.25.26:087][  0]SourceControl: Source control is disabled
+[2019.04.26-09.25.26:087][  0]Cmd: MAP LOAD FILE="Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.26-09.25.26:094][  0]LightingResults: New page: Lighting Build
+[2019.04.26-09.25.26:098][  0]MapCheck: New page: Map Check
+[2019.04.26-09.25.26:098][  0]LightingResults: New page: Lighting Build
+[2019.04.26-09.25.27:000][  0]LogFileCache: Scanning file cache for directory 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/' took 0.31s
+[2019.04.26-09.25.36:536][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.26-09.25.36:765][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.26-09.25.36:810][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.26-09.25.37:381][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 570.402ms to complete.
+[2019.04.26-09.25.37:383][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 11.296
+[2019.04.26-09.25.37:459][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-09.25.37:466][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-09.25.37:475][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-09.25.37:482][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-09.25.37:497][  0]LogCollectionManager: Loaded 0 collections in 0.011164 seconds
+[2019.04.26-09.25.37:563][  0]LogFileCache: Scanning file cache for directory 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/Collections/' took 0.01s
+[2019.04.26-09.25.37:563][  0]LogFileCache: Scanning file cache for directory 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Developers/CSG17007563/Collections/' took 0.01s
+[2019.04.26-09.25.37:563][  0]LogFileCache: Scanning file cache for directory 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Collections/' took 0.01s
+[2019.04.26-09.25.37:563][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.26-09.25.37:572][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2581 classes and 608 folders.
+[2019.04.26-09.25.37:578][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.26-09.25.37:636][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.04.26-09.25.37:642][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.04.26-09.25.37:745][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.26-09.25.37:747][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.26-09.25.37:754][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.26-09.25.37:837][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.04.26-09.25.38:089][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.26-09.25.38:205][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.04.26-09.25.38:205][  0]LogLoad: (Engine Initialization) Total time: 24.97 seconds
+[2019.04.26-09.25.38:205][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.26-09.25.38:294][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.26-09.25.38:296][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/', and we were unable to create a new request.
+[2019.04.26-09.25.38:296][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.26-09.25.38:296][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Developers/CSG17007563/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.26-09.25.38:297][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.26-09.25.38:301][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.26-09.25.38:375][  1]LogFileCache: Retrieving MD5 hashes for directory 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/' took 0.14s
+[2019.04.26-09.25.38:394][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.26-09.25.38:395][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/Collections/', and we were unable to create a new request.
+[2019.04.26-09.25.38:395][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.26-09.25.38:396][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Collections/', and we were unable to create a new request.
+[2019.04.26-09.25.38:396][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Developers/CSG17007563/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.04.26-09.25.38:397][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Developers/CSG17007563/Collections/', and we were unable to create a new request.
+[2019.04.26-09.25.38:496][  3]LogAssetRegistry: Asset discovery search completed in 18.0387 seconds
+[2019.04.26-09.25.38:498][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.26-09.25.38:498][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2019.04.26-09.25.39:828][  7]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.26-09.26.10:029][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.26.10:289][144]LogAIModule: Creating AISystem for world CaveLevel
+[2019.04.26-09.26.10:298][144]LogAssetEditorManager: Opening Asset editor for World /Game/Cave_Level/CaveLevel.CaveLevel
+[2019.04.26-09.26.10:340][144]Cmd: MAP LOAD FILE="Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Cave_Level/CaveLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.26-09.26.10:340][144]LightingResults: New page: Lighting Build
+[2019.04.26-09.26.10:340][144]LoadErrors: New page: Loading map: CaveLevel.umap
+[2019.04.26-09.26.10:359][144]MapCheck: New page: Map Check
+[2019.04.26-09.26.10:359][144]LightingResults: New page: Lighting Build
+[2019.04.26-09.26.10:444][144]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.26-09.26.10:566][144]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.26-09.26.11:349][144]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 782.358ms to complete.
+[2019.04.26-09.26.11:351][144]LogFileHelpers: Loading map 'CaveLevel' took 1.012
+[2019.04.26-09.26.15:812][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.26.23:790][505]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.26-09.26.24:018][505]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.04.26-09.26.24:061][505]Cmd: MAP LOAD FILE="Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.26-09.26.24:061][505]LightingResults: New page: Lighting Build
+[2019.04.26-09.26.24:061][505]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.04.26-09.26.24:068][505]MapCheck: New page: Map Check
+[2019.04.26-09.26.24:068][505]LightingResults: New page: Lighting Build
+[2019.04.26-09.26.24:475][505]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.26-09.26.24:607][505]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.26-09.26.25:278][505]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 671.574ms to complete.
+[2019.04.26-09.26.25:281][505]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.221
+[2019.04.26-09.26.31:234][778]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door10)
+[2019.04.26-09.26.32:721][857]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door10)
+[2019.04.26-09.26.39:809][161]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door9)
+[2019.04.26-09.26.46:110][692]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.04.26-09.26.46:945][773]Cmd: DELETE
+[2019.04.26-09.26.46:945][773]Cmd: ACTOR DELETE
+[2019.04.26-09.26.47:013][773]LogEditorActor: Deleted Actor: PointLight
+[2019.04.26-09.26.47:050][773]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2019.04.26-09.26.48:099][896]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door10)
+[2019.04.26-09.26.52:501][186]LogEditorViewport: Clicking on Actor (CTRL LMB): Door_C (Door9)
+[2019.04.26-09.26.56:863][367]LogEditorViewport: Clicking on Actor (CTRL LMB): Corridor_C (Corridor3)
+[2019.04.26-09.26.58:058][399]LogEditorViewport: Clicking on Actor (context menu): HallWay_C (HallWay130)
+[2019.04.26-09.26.58:190][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.26-09.26.59:463][531]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.04.26-09.27.04:378][652]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door9)
+[2019.04.26-09.27.08:942][987]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door10)
+[2019.04.26-09.27.13:281][304]LogEditorViewport: Clicking on Actor (CTRL LMB): Door_C (Door9)
+[2019.04.26-09.27.20:089][667]LogEditorViewport: Clicking on Actor (CTRL LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.04.26-09.27.27:044][804]LogEditorViewport: Clicking on Actor (CTRL LMB): Corridor_C (Corridor3)
+[2019.04.26-09.27.28:958][842]LogEditorViewport: Clicking on Actor (CTRL LMB): HallWay_C (HallWay130)
+[2019.04.26-09.27.30:127][865]LogEditorViewport: Clicking on Actor (CTRL LMB): HallWay_C (HallWay129)
+[2019.04.26-09.27.30:935][880]LogEditorViewport: Clicking on Actor (CTRL LMB): HallWay_C (HallWay106)
+[2019.04.26-09.27.34:839][974]LogEditorViewport: Clicking on Actor (CTRL LMB): HallWay_C (HallWay131)
+[2019.04.26-09.27.35:859][999]LogEditorViewport: Clicking on Actor (CTRL LMB): Corridor_C (Corridor9)
+[2019.04.26-09.27.37:046][ 31]Cmd: EDIT COPY
+[2019.04.26-09.27.38:437][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.27.46:112][278]LogAIModule: Creating AISystem for world CaveLevel
+[2019.04.26-09.27.46:114][278]LogAssetEditorManager: Opening Asset editor for World /Game/Cave_Level/CaveLevel.CaveLevel
+[2019.04.26-09.27.47:674][278]LogSlate: Window 'Save Content' being destroyed
+[2019.04.26-09.28.09:494][278]LogSavePackage: Moving 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/ThirdPersonExampleMap6B107DD949580A112E2C9091E110EA23.tmp' to 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.04.26-09.28.09:717][278]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 22.033
+[2019.04.26-09.28.09:718][278]Cmd: MAP LOAD FILE="Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Cave_Level/CaveLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.26-09.28.09:718][278]LightingResults: New page: Lighting Build
+[2019.04.26-09.28.09:719][278]LoadErrors: New page: Loading map: CaveLevel.umap
+[2019.04.26-09.28.09:780][278]MapCheck: New page: Map Check
+[2019.04.26-09.28.09:780][278]LightingResults: New page: Lighting Build
+[2019.04.26-09.28.09:896][278]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.26-09.28.10:040][278]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.26-09.28.10:991][278]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 950.597ms to complete.
+[2019.04.26-09.28.10:996][278]LogFileHelpers: Loading map 'CaveLevel' took 1.279
+[2019.04.26-09.28.13:165][509]LogEditorViewport: Clicking Background
+[2019.04.26-09.28.13:858][592]Cmd: EDIT PASTE
+[2019.04.26-09.28.26:894][  7]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.04.26-09.28.34:159][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.28.49:645][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.29.03:642][195]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.04.26-09.29.22:991][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.29.25:230][287]LogSavePackage: Moving 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/CaveLevel55E58AF24C730D289ED44491615F512A.tmp' to 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Cave_Level/CaveLevel.umap'
+[2019.04.26-09.29.27:016][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.29.53:949][882]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.26-09.29.54:134][882]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.04.26-09.29.55:498][882]LogSlate: Window 'Save Content' being destroyed
+[2019.04.26-09.29.58:268][882]LogSavePackage: Moving 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/CaveLevel9E85BAF34C7051AD644EAEA75B997E59.tmp' to 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Cave_Level/CaveLevel.umap'
+[2019.04.26-09.29.58:448][882]LogFileHelpers: Saving map 'CaveLevel' took 2.937
+[2019.04.26-09.29.58:450][882]Cmd: MAP LOAD FILE="Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.26-09.29.58:450][882]LightingResults: New page: Lighting Build
+[2019.04.26-09.29.58:451][882]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.04.26-09.29.58:487][882]MapCheck: New page: Map Check
+[2019.04.26-09.29.58:487][882]LightingResults: New page: Lighting Build
+[2019.04.26-09.29.58:868][882]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.26-09.29.58:990][882]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.26-09.29.59:322][882]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 332.257ms to complete.
+[2019.04.26-09.29.59:324][882]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.876
+[2019.04.26-09.30.11:206][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.30.11:232][259]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.26-09.30.11:277][259]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.26-09.30.11:277][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-09.30.11:290][259]PIE: New page: PIE session: ThirdPersonExampleMap (26 Apr 2019 11:30:11)
+[2019.04.26-09.30.11:290][259]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.26-09.30.11:368][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078107s)
+[2019.04.26-09.30.11:369][259]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.26-09.30.11:369][259]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2019.04.26-09.30.11:370][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.079282s)
+[2019.04.26-09.30.11:412][259]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-09.30.11:421][259]LogInit: FAudioDevice initialized.
+[2019.04.26-09.30.11:490][259]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.26-09.30.11:535][259]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.04.26-10.30.11
+[2019.04.26-09.30.11:538][259]LogWorld: Bringing up level for play took: 0.044639
+[2019.04.26-09.30.11:562][259]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 10 classes and 0 folders.
+[2019.04.26-09.30.11:571][259]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.023
+[2019.04.26-09.30.11:572][259]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.26-09.30.16:213][537]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Oxygen at 50%
+[2019.04.26-09.30.16:629][586]LogBlueprintUserMessages: [LevelChanger_2] 0.0
+[2019.04.26-09.30.16:634][587]LogNet: Browse: /Game/Cave_Level/CaveLevel
+[2019.04.26-09.30.16:636][587]LogLoad: LoadMap: /Game/Cave_Level/CaveLevel
+[2019.04.26-09.30.32:336][587]LogAIModule: Creating AISystem for world CaveLevel
+[2019.04.26-09.30.32:336][587]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.26-09.30.32:375][587]LogWorld: Bringing World /Game/Cave_Level/UEDPIE_0_CaveLevel.CaveLevel up for play (max tick rate 0) at 2019.04.26-10.30.32
+[2019.04.26-09.30.32:376][587]LogWorld: Bringing up level for play took: 0.038366
+[2019.04.26-09.30.32:376][587]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.26-09.30.32:378][587]LogLoad: Took 15.743096 seconds to LoadMap(/Game/Cave_Level/CaveLevel)
+[2019.04.26-09.30.41:130][616]LogBlueprintUserMessages: [Door10] Door Locked
+[2019.04.26-09.30.44:007][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.26-09.30.44:007][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-09.30.44:044][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-09.30.44:044][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.26-09.30.44:083][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-09.30.44:127][962]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.04.26-09.30.48:219][187]LogEditorViewport: Clicking on Actor (LMB): LevelChanger_C (LevelChanger)
+[2019.04.26-09.30.50:262][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.30.52:403][395]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LevelChanger.LevelChanger
+[2019.04.26-09.30.52:864][395]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 116 classes and 0 folders.
+[2019.04.26-09.30.53:774][395]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.26-09.31.49:383][978]BlueprintLog: New page: Compile LevelChanger
+[2019.04.26-09.31.50:086][ 37]BlueprintLog: New page: Compile LevelChanger
+[2019.04.26-09.31.56:808][817]BlueprintLog: New page: Compile LevelChanger
+[2019.04.26-09.32.16:331][128]BlueprintLog: New page: Compile LevelChanger
+[2019.04.26-09.32.16:906][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelChanger" FILE="Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/LevelChanger.uasset" SILENT=true
+[2019.04.26-09.32.17:319][170]LogSavePackage: Moving 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/LevelChangerBA33B5D4488D627B915850AE2F0AC231.tmp' to 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/LevelChanger.uasset'
+[2019.04.26-09.32.19:125][282]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.26-09.32.19:174][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.26-09.32.19:174][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-09.32.19:174][282]PIE: New page: PIE session: ThirdPersonExampleMap (26 Apr 2019 11:32:19)
+[2019.04.26-09.32.19:174][282]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.26-09.32.19:220][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045581s)
+[2019.04.26-09.32.19:220][282]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.26-09.32.19:221][282]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2019.04.26-09.32.19:221][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.046542s)
+[2019.04.26-09.32.19:268][282]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-09.32.19:275][282]LogInit: FAudioDevice initialized.
+[2019.04.26-09.32.19:309][282]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.26-09.32.19:335][282]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.04.26-10.32.19
+[2019.04.26-09.32.19:337][282]LogWorld: Bringing up level for play took: 0.026991
+[2019.04.26-09.32.19:354][282]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.812
+[2019.04.26-09.32.19:355][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.26-09.32.24:110][585]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Oxygen at 50%
+[2019.04.26-09.32.24:354][614]LogBlueprintUserMessages: [LevelChanger_2] 0.0
+[2019.04.26-09.32.24:368][615]LogNet: Browse: /Game/Cave_Level/CaveLevel
+[2019.04.26-09.32.24:368][615]LogLoad: LoadMap: /Game/Cave_Level/CaveLevel
+[2019.04.26-09.32.31:497][615]LogAIModule: Creating AISystem for world CaveLevel
+[2019.04.26-09.32.31:498][615]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.26-09.32.31:522][615]LogWorld: Bringing World /Game/Cave_Level/UEDPIE_0_CaveLevel.CaveLevel up for play (max tick rate 0) at 2019.04.26-10.32.31
+[2019.04.26-09.32.31:522][615]LogWorld: Bringing up level for play took: 0.023597
+[2019.04.26-09.32.31:523][615]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.26-09.32.31:525][615]LogLoad: Took 7.157017 seconds to LoadMap(/Game/Cave_Level/CaveLevel)
+[2019.04.26-09.32.36:003][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.26-09.32.36:003][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-09.32.36:040][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-09.32.36:041][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.26-09.32.36:084][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-09.32.36:123][136]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.04.26-09.32.42:176][612]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.04.26-09.32.43:356][642]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.26-09.32.44:214][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.32.44:318][670]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.04.26-09.33.18:590][599]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/OxRateChanger.OxRateChanger
+[2019.04.26-09.33.28:582][902]BlueprintLog: New page: Compile OxRateChanger
+[2019.04.26-09.33.31:917][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OxRateChanger" FILE="Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/OxRateChanger.uasset" SILENT=true
+[2019.04.26-09.33.32:283][  2]LogSavePackage: Moving 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/OxRateChangerB6A3212E4D6FF86A9BE2F1A771A41BA2.tmp' to 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/OxRateChanger.uasset'
+[2019.04.26-09.33.34:975][138]LogSlate: Window 'OxRateChanger' being destroyed
+[2019.04.26-09.33.41:652][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.33.53:622][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.33.53:688][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.26-09.33.53:734][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.26-09.33.53:734][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-09.33.53:734][ 91]PIE: New page: PIE session: ThirdPersonExampleMap (26 Apr 2019 11:33:53)
+[2019.04.26-09.33.53:734][ 91]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.26-09.33.53:779][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044938s)
+[2019.04.26-09.33.53:780][ 91]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.26-09.33.53:780][ 91]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2019.04.26-09.33.53:780][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.045939s)
+[2019.04.26-09.33.53:832][ 91]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-09.33.53:840][ 91]LogInit: FAudioDevice initialized.
+[2019.04.26-09.33.53:871][ 91]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.26-09.33.53:894][ 91]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.04.26-10.33.53
+[2019.04.26-09.33.53:896][ 91]LogWorld: Bringing up level for play took: 0.024365
+[2019.04.26-09.33.53:919][ 91]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.619
+[2019.04.26-09.33.53:919][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.26-09.33.58:139][323]LogBlueprintUserMessages: [OxRateChanger_2] 0.0
+[2019.04.26-09.34.10:380][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.26-09.34.10:381][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-09.34.10:456][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-09.34.10:457][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.26-09.34.10:506][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-09.34.10:557][752]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.04.26-09.34.11:758][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.34.14:621][  7]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.26-09.34.14:756][  7]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.26-09.34.14:911][  7]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.26-09.34.16:754][111]LogEditorViewport: Clicking on Actor (LMB): LevelChanger_C (LevelChanger)
+[2019.04.26-09.34.19:558][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.34.19:623][422]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LevelChanger.LevelChanger
+[2019.04.26-09.34.31:279][741]BlueprintLog: New page: Compile LevelChanger
+[2019.04.26-09.34.32:553][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelChanger" FILE="Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/LevelChanger.uasset" SILENT=true
+[2019.04.26-09.34.32:851][871]LogSavePackage: Moving 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/LevelChanger52C838EC41AC65B6F2453FBF96A754EF.tmp' to 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/LevelChanger.uasset'
+[2019.04.26-09.35.02:372][778]LogSavePackage: Moving 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/ThirdPersonExampleMapFD80FD47455082FF9519CA8DB9FD52B1.tmp' to 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.04.26-09.35.03:834][778]LogSavePackage: Moving 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/ThirdPersonExampleMap_BuiltData1344283742FDD61B4C048D95EE8D28F8.tmp' to 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.04.26-09.35.13:918][ 56]LogAIModule: Creating AISystem for world CaveLevel
+[2019.04.26-09.35.13:960][ 56]LogAssetEditorManager: Opening Asset editor for World /Game/Cave_Level/CaveLevel.CaveLevel
+[2019.04.26-09.35.16:589][ 56]LogSlate: Window 'Save Content' being destroyed
+[2019.04.26-09.35.16:597][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelChanger" FILE="Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/LevelChanger.uasset" SILENT=true
+[2019.04.26-09.35.16:901][ 56]LogSavePackage: Moving 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/LevelChangerBD2C7B2540155F08AB7BC1B41DE09506.tmp' to 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/LevelChanger.uasset'
+[2019.04.26-09.35.16:972][ 56]Cmd: MAP LOAD FILE="Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Cave_Level/CaveLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.26-09.35.16:972][ 56]LightingResults: New page: Lighting Build
+[2019.04.26-09.35.16:973][ 56]LoadErrors: New page: Loading map: CaveLevel.umap
+[2019.04.26-09.35.16:995][ 56]MapCheck: New page: Map Check
+[2019.04.26-09.35.16:995][ 56]LightingResults: New page: Lighting Build
+[2019.04.26-09.35.17:170][ 56]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.26-09.35.17:309][ 56]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.26-09.35.18:550][ 56]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,240.331ms to complete.
+[2019.04.26-09.35.18:551][ 56]LogFileHelpers: Loading map 'CaveLevel' took 1.581
+[2019.04.26-09.35.29:736][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.35.33:592][768]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door10)
+[2019.04.26-09.35.35:154][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.35.39:476][417]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door9)
+[2019.04.26-09.35.40:985][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-09.35.48:250][306]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Cave_Level/CaveLevel.CaveLevel:PersistentLevel.CaveLevel
+[2019.04.26-09.35.57:183][243]LogEditorTransaction: Undo Delete current selection
+[2019.04.26-09.36.12:100][912]BlueprintLog: New page: Compile CaveLevel
+[2019.04.26-09.36.12:106][912]LogBlueprint: Warning: [Compiler PersistentLevel.CaveLevel] Could not find a variable named "NewOxRate" in 'CaveLevel_C'.
+Make sure 'CaveLevel_C' has been compiled for  Get NewOxRate
+[2019.04.26-09.36.12:106][912]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2019.04.26-09.36.12:106][912]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] The property associated with  New Ox Rate  could not be found in '/Game/Cave_Level/CaveLevel.CaveLevel_C'
+[2019.04.26-09.36.12:106][912]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.04.26-09.36.12:297][912]LogBlueprint: Warning: [Compiler PersistentLevel.CaveLevel] [0659.09] Compile of PersistentLevel.CaveLevel failed. 3 Fatal Issue(s) 1 Warning(s) [in 197 ms] (/Game/Cave_Level/CaveLevel.CaveLevel:PersistentLevel.CaveLevel)
+[2019.04.26-09.36.29:758][786]BlueprintLog: New page: Compile CaveLevel
+[2019.04.26-09.36.29:764][786]LogBlueprint: Warning: [Compiler PersistentLevel.CaveLevel] Could not find a variable named "NewOxRate" in 'CaveLevel_C'.
+Make sure 'CaveLevel_C' has been compiled for  Get NewOxRate
+[2019.04.26-09.36.29:764][786]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2019.04.26-09.36.29:765][786]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] The property associated with  New Ox Rate  could not be found in '/Game/Cave_Level/CaveLevel.CaveLevel_C'
+[2019.04.26-09.36.29:765][786]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.04.26-09.36.29:924][786]LogBlueprint: Warning: [Compiler PersistentLevel.CaveLevel] [0676.71] Compile of PersistentLevel.CaveLevel failed. 3 Fatal Issue(s) 1 Warning(s) [in 165 ms] (/Game/Cave_Level/CaveLevel.CaveLevel:PersistentLevel.CaveLevel)
+[2019.04.26-09.36.38:463][665]LogSlate: Took 0.008656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.26-09.36.41:816][761]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.04.26-09.36.45:438][102]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.04.26-09.36.45:441][102]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.04.26-09.36.47:251][283]BlueprintLog: New page: Compile CaveLevel
+[2019.04.26-09.36.47:257][283]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2019.04.26-09.36.47:257][283]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.04.26-09.36.47:258][283]LogClass: Warning: Type mismatch in NewOxRate of CaveLevel_C - Previous (BoolProperty) Current(FloatProperty) for package:  FObjectReader
+[2019.04.26-09.36.47:258][283]LogBlueprint: Warning: [Compiler PersistentLevel.CaveLevel] Can't parse default value 'False' for  New Ox Rate . Property: NewOxRate.
+[2019.04.26-09.36.47:411][283]LogBlueprint: Warning: [Compiler PersistentLevel.CaveLevel] [0694.20] Compile of PersistentLevel.CaveLevel failed. 2 Fatal Issue(s) 1 Warning(s) [in 160 ms] (/Game/Cave_Level/CaveLevel.CaveLevel:PersistentLevel.CaveLevel)
+[2019.04.26-09.36.55:525][107]BlueprintLog: New page: Compile CaveLevel
+[2019.04.26-09.36.55:532][107]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2019.04.26-09.36.55:532][107]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.04.26-09.36.55:749][107]LogBlueprint: Warning: [Compiler PersistentLevel.CaveLevel] [0702.54] Compile of PersistentLevel.CaveLevel failed. 2 Fatal Issue(s) 0 Warning(s) [in 223 ms] (/Game/Cave_Level/CaveLevel.CaveLevel:PersistentLevel.CaveLevel)
+[2019.04.26-09.37.12:735][741]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2019.04.26-09.37.12:735][741]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.04.26-09.37.12:737][741]LogBlueprint: Warning: [Compiler PersistentLevel.CaveLevel] [0719.53] Compile of PersistentLevel.CaveLevel failed. 2 Fatal Issue(s) 0 Warning(s) [in 12 ms] (/Game/Cave_Level/CaveLevel.CaveLevel:PersistentLevel.CaveLevel)
+[2019.04.26-09.37.15:016][741]LogSavePackage: Moving 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Saved/CaveLevel5089260E4C0D4C546FA580B22C5291F0.tmp' to 'Z:/Assignment Repository/Team-Molyneux-3/Project/Unreal Project/GroupProject/Content/Cave_Level/CaveLevel.umap'
+[2019.04.26-09.37.15:212][741]LogFileHelpers: Saving map 'CaveLevel' took 4.146
+[2019.04.26-09.37.23:202][615]BlueprintLog: New page: Compile CaveLevel
+[2019.04.26-09.37.23:208][615]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] This blueprint (self) is not a ThirdPersonCharacter_C, therefore ' Target ' must have a connection.
+[2019.04.26-09.37.23:208][615]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] This blueprint (self) is not a ThirdPersonCharacter_C, therefore ' Target ' must have a connection.
+[2019.04.26-09.37.23:208][615]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] Variable node  Get OxygenRate  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.04.26-09.37.23:208][615]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] Variable node  Set OxygenRate  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.04.26-09.37.23:365][615]LogBlueprint: Warning: [Compiler PersistentLevel.CaveLevel] [0730.16] Compile of PersistentLevel.CaveLevel failed. 4 Fatal Issue(s) 0 Warning(s) [in 163 ms] (/Game/Cave_Level/CaveLevel.CaveLevel:PersistentLevel.CaveLevel)
+[2019.04.26-09.37.27:514][ 84]LogEditorTransaction: Undo Create Pin Link
+[2019.04.26-09.37.27:796][107]LogEditorTransaction: Undo Delete current selection
+[2019.04.26-09.37.37:703][167]BlueprintLog: New page: Compile CaveLevel
+[2019.04.26-09.37.37:709][167]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2019.04.26-09.37.37:710][167]LogBlueprint: Error: [Compiler PersistentLevel.CaveLevel] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.04.26-09.37.37:887][167]LogBlueprint: Warning: [Compiler PersistentLevel.CaveLevel] [0744.68] Compile of PersistentLevel.CaveLevel failed. 2 Fatal Issue(s) 0 Warning(s) [in 183 ms] (/Game/Cave_Level/CaveLevel.CaveLevel:PersistentLevel.CaveLevel)
+[2019.04.26-09.37.56:018][937]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.063 s
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: 
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp] [Line: 46]
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name '0.000000'! You must pass in fully qualified package names
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: Stack: 
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffffc8a71f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffffc5e0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffffc5fb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffffc13ee2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffffc03016d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffffc04ae5f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffffc040a8f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffffc0a9f2e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffffbd79144 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff78429ac UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff12de45d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff1318e9c UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff12d360f UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff12ce7da UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff12cd83d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff7834713 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff7851db6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff5a8c765 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff5a22769 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff8d26081 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff8d2785b UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff8ca4d5d UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff8a970ac UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff8b1606c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ffff8b09846 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ff810e7ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ff810e70270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ff810e7f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ff810e6c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ff841631c24 USER32.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ff84163156c USER32.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ff810e80646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ff78b6b54e5 UE4Editor.exe!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ff78b6c5b3c UE4Editor.exe!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ff78b6c5bba UE4Editor.exe!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ff78b6d3dac UE4Editor.exe!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ff78b6d5aaa UE4Editor.exe!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ff8420d8364 KERNEL32.DLL!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: [Callstack] 0x00007ff842875e91 ntdll.dll!UnknownFunction []
+[2019.04.26-09.37.56:018][937]LogOutputDevice: Error: 
+[2019.04.26-09.37.56:024][937]LogStats:                SubmitErrorReport -  0.000 s
